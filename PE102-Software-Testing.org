@@ -103,7 +103,7 @@ Upon the completion of the course the students should be able to:
 - Apply Black and whitebox approach to design test cases (K3)
 - Understand and apply levels of testing (K3)
 - Apply Automation tools for software testing in projects (K3)
-- Analyze the product Quality (K3).
+- Analyze the product Quality (K3)>
 
 ** TEXT BOOKS
 1) Gopalaswamy Ramesh, Srinivasan Desikan,``Software Testing:
