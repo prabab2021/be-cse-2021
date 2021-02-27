@@ -1,6 +1,6 @@
-* <<<PE306>>> MULTICORE ARCHITECTURE AND GPU COMPUTING
+* <<<PE306>>> MULTICORE ARCHITECTURE AND PROGRAMMING
 :properties:
-:author: Ms. K. Lekshmi and Dr. D. Venkatavara Prasad
+:author: Dr. D. Venkatavara Prasad and Ms.S.Angel Deborah 
 :date: 
 :end:
 
