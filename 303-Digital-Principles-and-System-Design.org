@@ -50,34 +50,37 @@ Adder--Subtractor -- Decimal Adder -- Binary Multiplier -- Magnitude
 Comparator -- Decoders -- Encoders -- Multiplexers -- Introduction to
 HDL -- HDL Models of Combinational circuits.
 
-{{{unit}}}
-|UNIT III | MEMORY AND PROGRAMMABLE LOGIC | 9 |
-RAM -- Memory Decoding -- Error Detection and Correction -- ROM --
-Programmable Logic Array -- Programmable Array Logic -- Sequential
-Programmable Devices.
 
 {{{unit}}}
-|UNIT IV | SYNCHRONOUS SEQUENTIAL LOGIC | 9 |
+|UNIT III | SYNCHRONOUS SEQUENTIAL LOGIC | 9 |
 Sequential Circuits -- Storage Elements: Latches , Flip--Flops;
 Analysis of Clocked Sequential Circuits -- State Reduction and
 Assignment -- Design Procedure -- Registers and Counters -- HDL Models
 of Sequential Circuits.
 
 {{{unit}}}
-|UNIT V | ASYNCHRONOUS SEQUENTIAL LOGIC | 9 |
+|UNIT IV | ASYNCHRONOUS SEQUENTIAL LOGIC | 9 |
 Analysis and Design of Asynchronous Sequential Circuits -- Reduction
 of State and Flow Tables -- Race-free State Assignment -- Hazards.
+
+
+{{{unit}}}
+|UNIT V | MEMORY AND PROGRAMMABLE LOGIC | 9 |
+RAM -- Memory Decoding -- Error Detection and Correction -- ROM --
+Programmable Logic Array -- Programmable Array Logic -- Sequential
+Programmable Devices.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Simplify Boolean functions using KMap (K3)
+- Solve Boolean functions using KMap (K3)
 - Analyze and design Combinational Circuits (K4)
-- Analyze and design Sequential Circuits (K4)
-- Understand various memories and implement Boolean functions using
+- Analyze and design Synchronous Sequential Circuits (K4)
+- Analyze and design Asynchronous Sequential Circuits (K4)
+- Build various memories and Boolean functions using
   Programmable Logic Devices (K3)
-- Write HDL code for combinational and Sequential Circuits (K3).
+
 
 ** TEXT BOOKS
 1. Morris R Mano, Michael D Ciletti, ``Digital Design: With an
