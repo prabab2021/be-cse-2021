@@ -1,8 +1,13 @@
 * <<<602>>> COMPILER DESIGN
   # DESIGN AND IMPLEMENTATION OF COMPILERS
 :properties:
-:author: Dr. B. Bharathi and Dr. B. Prabavathy
+:author: Dr. B. Bharathi and Dr. B. Prabavathy 
 :end:
+
+#+begin_comment
+Modified by :Dr.S.Saraswathi on 27-02-2021 as per the suggestion given by BB,DT,BP
+#+end_comment
+
 
 #+begin_comment
 - 1. Suggestive experiments are changed
@@ -24,6 +29,7 @@
 | CO5            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
 | Score          |    |  15 |  10 |  10 |   0 |   5 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |   10 |   15 |    5 |
 | Course Mapping |    |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    1 |
+
 {{{credits}}}
 | L | T | P | C |
 | 3 | 0 | 2 | 4 |
@@ -38,10 +44,11 @@
 |UNIT I | INTRODUCTION TO COMPILERS | 9 |
 Language processors -- Phases of compiler -- Role of lexical analyzer
 -- Input buffering -- Specification of tokens -- Recognition of
-tokens; Lexical analyzer generator: Structure of lex program --
+tokens -- Conversion of Regular expression to DFA; Lexical analyzer generator: Structure of lex program --
 Lookahead operator and conflict resolution.
 #+begin_comment
 Added:Lookahead operator and conflict resolution. 
+Added : Saraswathi : suggested by BB: after Recognition of tokens added  "Conversion of Regular expression to DFA"
 #+end_comment
 
 {{{unit}}}
@@ -51,7 +58,8 @@ grammars: Ambiguity -- Deterministic and recursive; Top down parsers:
 Recursive descent parser -- Predictive parser; Bottom up parsers: SLR
 Parser -- CLR Parser -- LALR Parser; Error handling and recovery in
 syntax analyzer; Syntax analyzer generator: Structure of yacc program
--- Creating =yacc= lexical analyzers with =lex=.
+-- Creating yacc lexical analyzers with lex.
+
 
 {{{unit}}}
 |UNIT III | INTERMEDIATE CODE GENERATION | 9 |
@@ -84,6 +92,9 @@ Added:Introduction to Low Level Virtual Machine (LLVM) - Design of
 LLVM - Core libraries - Developing plugin in LLVM.
  
 Deleted: Peephole optimization - Effcient dataflow algorithm
+
+Suggestion: Saraswathi : Unit 5 BB, BP, DT Subject handling staff told that this unit LLVM is new topic and after completing this semester they will give their feedback on LLVM
+
 #+end_comment
 
 \hfill *Theory Periods: 45* 
@@ -110,14 +121,16 @@ Added:Study of LLVM framework.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Design a lexical analyzer for a sample language (K3)
+- Construct a lexical analyzer for a sample language (K3)
 - Apply different parsing algorithms to develop the parsers for the
   given grammar (K3)
-- Write syntax directed translation for programming language
+- Build syntax directed translation for programming language
   constructs (K3)
-- Understand and implement a simple code generator (K3)
-- Understand and implement code optimization techniques (K3).
-
+- Outline and develope a simple code generator (K3)
+- Make use of code optimization techniques (K3).
+#+begin_comment
+Saraswathi: replaced words with action verbs
+#+end_comment
 ** TEXT BOOK
 1. Alfred V Aho, Monica S Lam, Ravi Sethi, Jeffrey D. Ullman,
    ``Compilers: Principles, Techniques and Tools'', 2nd Edition,
