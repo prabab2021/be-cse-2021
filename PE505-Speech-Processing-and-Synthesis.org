@@ -108,8 +108,8 @@ Importance: Role of prosody in speech synthesis.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Illustrate how the speech production is modelled (K2)
-- Extract features from the speech signal in time domain (K3)
-- Analyze the speech signal in frequency domain (K3)
+- Experiment the speech signal in time domain (K3)
+- Experiment the speech signal in frequency domain (K3)
 - Develop a speech recognition system using statistical approach (K3)
 - Compare the various methods of speech synthesis (K2).
       
