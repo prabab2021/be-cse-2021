@@ -23,7 +23,7 @@
 - To explore various IR applications.
 
 {{{unit}}}
-| UNIT I | INTRODUCTION AND MODELING | 9 |
+| UNIT I | INTRODUCTION | 9 |
 
 
 #+begin_comment
@@ -33,35 +33,31 @@
 
 
 {{{unit}}}
-| UNIT II | INDEXING AND QUERYING | 9 |
+| UNIT II |  | 9 |
 
 
 
 
 {{{unit}}}
-| UNIT III | SEARCHING | 9 |
+| UNIT III |  | TABULAR SOLUTION METHODS |
 
 
 {{{unit}}}
-| UNIT IV |  | 9 |
-Text Classification: Naive Bayes; Vector Space Classification: Rocchio
--- k-Nearest Neighbour; Flat Clustering: K-Means -- Model-based
-clustering -- Hierarchical clustering -- Matrix decompositions and latent
-semantic indexing.
+| UNIT IV |  | APPROXIMATE SOLUTION METHODS |
+
 
 #+begin_comment
-- 1. Removed Decision tree, SVM and dimensionality reduction from AU.
+
 #+end_comment
 
 {{{unit}}}
-|UNIT V|APPLICATIONS|9|
+|UNIT V|APPLICATIONS AND CASE STUDIES|9|
 XML Retrieval -- Multimedia IR -- Parallel and Distributed IR --
 Digital Libraries -- Social Media Retrieval -- Content-based Image
 Retrieval -- Online Public Access Catalogs (OPACs).
 
 #+begin_comment
-- 1. AU focused only on recommender system. Several applications are explored here
-- 2. Added OPACs from M.E syllabus
+- 1. 
 #+end_comment
 
 \hfill *Total Periods: 45*
