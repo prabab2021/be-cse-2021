@@ -92,11 +92,11 @@ Unit-5:  AU-Unit V regulation 2017  topics included
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the preparation of incident response (K2)
-- Apply data acquisition techniques (K3)
-- Analyze and validate forensics data (K3)
-- Understand network and mobile forensics (K2)
-- Use forensics tools (K3).
+- Explain the basics of computer forensics 
+- Relate different computer forensic tools to a given scenario 
+- Outline the analysis and validation process of forensics data 
+- Identify the vulnerabilities in a given network infrastructure 
+- Implement real-world hacking techniques to test system security 
 
 ** TEXT BOOKS 
 1. Chris Prosise, Kevin Mandia, ``Incident Response and Computer
