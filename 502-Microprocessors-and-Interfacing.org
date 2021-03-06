@@ -1,6 +1,6 @@
 * <<<502>>> MICROPROCESSORS AND INTERFACING
 :properties:
-:author: Ms. S. Manisha and Mr. K. R. Sarath Chandran
+:author: Dr. K. R. Sarath Chandran and Ms.S.Angel Deborah
 :date: 
 :end:
 
