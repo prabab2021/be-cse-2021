@@ -1,7 +1,7 @@
 * <<<PE301>>> BAYESIAN DATA ANALYSIS
 :properties:
-:author: Ms. S. Rajalakshmi and Ms. R. Priyadharsini
-:date: 12-11-2018
+:author: Dr. R.S.Milton and Ms. S. Angel Deborah
+:date: 06-03-2021
 :end:
 
 #+begin_comment
