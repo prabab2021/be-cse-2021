@@ -1,6 +1,6 @@
 * <<<PE504>>> ROBOTICS
 :properties:
-:author: Mr. K. R. Sarath Chandran and Ms. S. Lakshmi Priya
+:author: Dr. K. R. Sarath Chandran and Ms. S. Angel Deborah
 :date: 
 :end:
 
