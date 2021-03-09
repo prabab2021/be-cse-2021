@@ -1,6 +1,7 @@
 * <<<405>>> DESIGN AND ANALYSIS OF ALGORITHMS
 :properties:
 :author: Dr.S.Kavitha and Mr.V.Balasubramanian
+:date: 09-03-2021
 :end:
 
 #+startup: showall
@@ -11,8 +12,11 @@
 
 ** COURSE OBJECTIVES
 - Learn the algorithm analysis techniques
-- Become familiar with the different algorithm design techniques
-- Understand the limitations of algorithm power.
+- Understand the conceppt of different algorithm design techniques
+- Understand the limitations of algorithmic power.
+- Analyze the asymptotic performance of algorithms.
+- Demonstrate the familiarity with important algorithms and data structures.
+
 
 {{{unit}}}
 |UNIT I|INTRODUCTION AND ANALYSIS |10| 
