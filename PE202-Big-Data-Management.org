@@ -1,7 +1,7 @@
 * <<<PE202>>> BIG DATA MANAGEMENT
 :properties:
-:author: Ms. S. Rajalakshmi and Ms. R. Priyadharsini
-:date: 12-11-2018
+:author: Dr. J Suresh and Dr. Y. V. Lokeswari
+:date: 09-03-2021
 :end:
 
 #+begin_comment
