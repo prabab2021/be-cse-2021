@@ -19,21 +19,16 @@
 - To explore various methods used in reinforcement learning
 - To apply reinforcement learning techniques for various case studies
 
-
-{{{unit}}}
 | UNIT I | BASICS OF PROBABILITY THEORY | 9 |
 
 
-{{{unit}}}
 | UNIT II | INTRODUCTION TO REINFORCEMENT LEARNING | 7 |
 Reinforcement Learning -- Examples -- Elements of Reinforcement Learning -- Limitations and Scope -- An Extended Example: Tic-Tac-Toe.
 
 
-{{{unit}}}
 | UNIT III |  | TABULAR SOLUTION METHODS | 11 |
 Multi-armed Bandits: A k-armed Bandit problem -- Action-value methods -- Incremental implementation -- Tracking a nonstationary problem -- Optimistic initial values -- Upper-confidence-bound action selection; Finite Markov Decision Processes; Dynamic Programming; Monte Carlo Methods; Temporal-Difference Learning.
 
-{{{unit}}}
 | UNIT IV |  | APPROXIMATE SOLUTION METHODS | 10 |
 On-policy Prediction with Approximation; On-policy Control with Approximation; Off-policy Methods with Approximation; Eligibility Traces; Policy Gradient Methods. 
 
@@ -41,7 +36,6 @@ On-policy Prediction with Approximation; On-policy Control with Approximation; O
 
 #+end_comment
 
-{{{unit}}}
 | UNIT V | APPLICATIONS AND CASE STUDIES | 8 |
 TD-Gammon; Samuel’s Checkers Player; Watson’s Daily-Double Wagering; Optimizing Memory Control; Human-level Video Game Play; Personalized Web Services.
 
