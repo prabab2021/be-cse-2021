@@ -1,7 +1,7 @@
 * <<<PE605>>> REINFORCEMENT LEARNING
 :properties:
-:author: 
-:date: 
+:author: Ms. M. Saritha and Ms. S. Rajalakshmi
+:date: 09-03-2021
 :end:
 
 #+begin_comment
@@ -15,15 +15,13 @@
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- To understand the basics of information retrieval with pertinence to
-  modeling
-- To understand various components of IR system
-- To understand machine learning techniques for text classification
-  and clustering
-- To explore various IR applications.
+- To understand the basics of probability theory and reinforcement learning
+- To explore various methods used in reinforcement learning
+- To apply reinforcement learning techniques for various case studies
+
 
 {{{unit}}}
-| UNIT I | INTRODUCTION | 9 |
+| UNIT I | BASICS OF PROBABILITY THEORY | 9 |
 
 
 #+begin_comment
@@ -33,14 +31,13 @@
 
 
 {{{unit}}}
-| UNIT II |  | 9 |
-
-
+| UNIT II | INTRODUCTION TO REINFORCEMENT LEARNING | 6 |
+Reinforcement Learning -- Examples -- Elements of Reinforcement Learning -- Limitations and Scope -- An Extended Example: Tic-Tac-Toe.
 
 
 {{{unit}}}
-| UNIT III |  | TABULAR SOLUTION METHODS |
-
+| UNIT III |  | TABULAR SOLUTION METHODS | 10 |
+Multi-armed Bandits: A k-armed Bandit Problem -- Action-value Methods -- Incremental Implementation -- Tracking a Nonstationary Problem -- Optimistic Initial Values -- Upper-Confidence-Bound Action Selection; Finite Markov Decision Processes: The Agent–Environment Interface -- Goals and Rewards -- Returns and Episodes -- 
 
 {{{unit}}}
 | UNIT IV |  | APPROXIMATE SOLUTION METHODS |
