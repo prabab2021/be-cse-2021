@@ -1,6 +1,6 @@
 * <<<PE507>>> MOBILE AND WIRELESS SECURITY
 :properties:
-:author: Dr. V. S. Felix Enigo and Ms. A. Beulah
+:author: Dr. A. Beulah and Dr. J. Bhuvana
 :end:
 
 #+startup: showall
