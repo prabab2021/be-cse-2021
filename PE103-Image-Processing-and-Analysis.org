@@ -1,7 +1,7 @@
 * <<<PE103>>> IMAGE PROCESSING AND ANALYSIS
 :properties:
-:author: Ms. R. Priyadharsini and Ms. K. Lekshmi
-:date:  
+:author: Ms. R. Priyadharsini and Ms. P. Mirunalini
+:date: 09.03.2021  
 :end:
 #+startup: showall
 
@@ -50,13 +50,13 @@ Introduction to Digital Image Processing: Components -- Image sensing
 and acquisition -- Image sampling and quantization; Relationships
 between Pixels; 2D Mathematical Preliminaries: Array vs matrix
 operations -- Linear vs nonlinear operations -- Arithmetic -- Logical
--- Statistical -- Spatial operations.
+-- Statistical -- Spatial operations-- Vector and matrix operations.
 
 {{{unit}}}
 |UNIT II | IMAGE ENHANCEMENT | 9 |
-Spatial Domain: Gray level transformations -- Histogram processing;
-Basics of Spatial Filtering: Smoothing and sharpening spatial
-filtering; Frequency Domain: Introduction to fourier transform --
+Spatial Domain: Gray level transformations -- Histogram processing--
+Basics of Spatial Filtering -- Smoothing and sharpening spatial
+filtering; Frequency Domain: Introduction to fourier transform -- The 2D convolutional theorem--
 Smoothing and Sharpening Frequency Domain Filters: Ideal --
 Butterworth -- Gaussian filters; Homomorphic Filtering.
 
@@ -66,12 +66,12 @@ Image Restoration: Degradation model; Noise models; Restoration in the
 Presence of Noise using Spatial Filtering: Mean filters -- Order
 statistics -- Adaptive filters; Periodic Noise Reduction by Frequency
 Domain Filtering: Band reject filters -- Band pass filters -- Notch
-filters -- Optimum notch filtering; Inverse filtering; Wiener
+filters -- Optimum notch filtering;Estimating the degradation function-- Inverse filtering; Wiener
 filtering.
 
 {{{unit}}}
 |UNIT IV | IMAGE SEGMENTATION | 9 |
-Edge Detection: Edge linking via Hough transform; Thresholding:
+Edge Detection: Techniques -- Edge linking via Hough transform; Thresholding:
 Intensity thresholding -- Otsu's thresholding; Region Based
 Segmentation: Region growing -- Region splitting and merging;
 Morphological Processing: Erosion and dilation; Segmentation by
@@ -80,11 +80,10 @@ Watershed segmentation algorithm.
 
 {{{unit}}}
 |UNIT V | FEATURE ANALYSIS AND OBJECT RECOGNITION | 9 |
-Boundary representation; Boundary Descriptors: Fourier descriptor;
+Boundary representation -- Boundary Descriptors;
 Regional descriptors -- Texture; Relational descriptors; Object
 Recognition: Patterns and pattern classes; Recognition based on
-decision theoretic methods; Case Study for Image Recognition: Face
-recognition.
+decision theoretic methods; Case Study for Image enhancement, Image restoration, Image segmentation and Recognition.
 
 #+begin_comment
 Removed: Image compression
@@ -95,14 +94,14 @@ Added: Case Study for Image recognition
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basics and fundamentals of digital image processing,
+- Explain the basics and fundamentals of digital image processing,
   such as digitization, sampling, quantization (K2)
-- Operate on images using the techniques of smoothing, sharpening and
+-Apply the techniques of smoothing, sharpening and
   enhancement in both spatial and frequency domain (K3)
-- Understand the restoration concepts and filtering techniques (K2)
-- Analyse the segmentation methods and apply in real time applications
+- Explain the restoration concepts and filtering techniques (K2)
+- Identify the segmentation methods and apply in real time applications
   (K3)
-- Understand and analyse the feature extraction and object recognition
+- Analyse the feature extraction and object recognition
   methods (K4).
    
 ** TEXT BOOKS
