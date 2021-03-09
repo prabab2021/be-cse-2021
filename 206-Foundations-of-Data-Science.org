@@ -35,7 +35,7 @@
 ** COURSE OBJECTIVES
 - To learn fundamentals of Data Science using Python
   # for carrying out basic statistical modeling and analysis
-  - To develop python program for analysis of data using Python libraries.
+- To develop python program for analysis of data using Python libraries.
   # used for statistical modeling
 - To understand probability distributions
   # used for statistical modeling
