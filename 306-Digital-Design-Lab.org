@@ -1,7 +1,7 @@
 * <<<306>>> DIGITAL DESIGN LAB
 :properties:
-:author: Ms. S. Angel Deborah and Mr. K. R. Sarath Chandran
-:date: 
+:author: Ms. S. Angel Deborah and Dr.D.Venkatavara Prasad
+:date: 9.3.2021
 :end:
 
 #+begin_comment
@@ -10,6 +10,7 @@
 - 3. Not Applicable
 - 4. Five Course outcomes specified and aligned with units
 - 5. Not Applicable
+- 6. Co's and mapping is changed
 #+end_comment
 
 #+startup: showall
@@ -58,11 +59,11 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand basic gates and universal gates to design a digital circuit (K3)
-- Design and Implement various combinational circuits using logic gates (K3)
-- Design and Implement various combinational circuits using MSI devices (K3)
-- Design and Implement various sequential circuits (K3)
-- Simulate various combinational and sequential circuits using HDL (K3).
+- Use boolean simplification techniques to design a combinational  circuit (K3)
+- Build and experiment combinational circuits using MSI devices (K3)
+- Build and experiment different functional units in a digital computer system (K3)
+- Build and experiment sequential circuits (K3)
+- Examine the combinational and sequential circuits using VHDL/ Verilog HDL and compare the results produced by the software (K4)
       
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
 Hardware:\\
