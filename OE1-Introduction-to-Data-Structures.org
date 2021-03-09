@@ -1,6 +1,7 @@
 * <<<OE1>>> INTRODUCTION TO DATA STRUCTURES
-:properties: Ms M Saritha
-:author: 
+:properties: 
+:author: Mr H Shahul Hamead and Ms M Saritha
+:date: 09-03-2021
 :end:
 
 #+BEGIN_COMMENT
@@ -81,11 +82,11 @@ Dijkstra's algorithm.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Implement various sorting and searching algorithms (K2)
-- Implement list and solve problems using them  (K3)
-- Implement stack and queue and use them to solve problems (K3)
-- Implement trees and use them to solve problems (K3)
-- Implement graphs and use them to solve problems (K3).
+- Demonstrate various sorting and searching algorithms (K2)
+- Solve various problems using List operations (K3)
+- Apply stack and queue to different problems (K3)
+- Develop problem solutions using trees (K3)
+- Make use of graphs to solve problems (K3)
 
 ** TEXT BOOKS
 1. M A Weiss, ``Data Structures and Algorithm Analysis in C'',
