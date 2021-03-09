@@ -1,11 +1,14 @@
 * <<<503>>> THEORY OF COMPUTATION
 :properties:
-:author: Ms. A. Beulah and Mr. V. Balasubramanian
+:author: Dr. A. Beulah and Dr. S.Kavitha
 :date: 09-03-2021
 :end:
 
 #+startup: showall
 
+#+begin_comment
+CO-PO mapping later
+#+end_comment
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
@@ -20,41 +23,31 @@
 | Course Mapping |    |   3 |   2 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    3 |    1 |
 
 
-
 {{{credits}}}
 | L | T | P | C |
 | 3 | 2 | 0 | 4 |
 
 ** Course Objectives
-- To construct finite automata for any given pattern and find its
-  equivalent regular expressions
-- To understand the language hierarchy and to design a context free
-  grammar for any given language
+- To construct finite automata for any given pattern and find its equivalent regular expressions
+- To understand the language hierarchy and to design a context free grammar for any given language
 - To construct pushdown automata for any CFL
 - To understand Turing machines and their capability
 - To understand undecidable problems.
 
 #+begin_comment
-1. Each unit is reframed according to the computational models. 
-2. For changes, see the individual units, some units were reordered
-3. This subject is not offered under M.E syllabus.
-4. Five Course outcomes specified and aligned with units.
+1. From the previous syllabus Unit 1 is splitted into two units.
+2. This subject is not offered under M.E syllabus.
+3. One more CO is inculded and CO's are modified to align with units.
 #+end_comment
 
 {{{unit}}}
 |UNIT I | MATHEMATICAL INTRODUCTION AND FINITE AUTOMATA   | 8 |
 Basic Mathematical Notation and Techniques: Introduction to Formal Proof -- Additional Forms of Proof -- Inductive Proofs; Finite Automata (FA): Deterministic Finite Automata (DFA) -- Non-deterministic Finite Automata (NFA) -- Finite automata with epsilon transitions -- Equivalence of FAs.
  
-#+begin_comment
-AU R-17 Uint I and II are combined together to a single unit. Unit I
-is grouped under Finite Automata.
-#+end_comment
 
 {{{unit}}}
 |UNIT II | REGULAR LANGUAGES  | 9 |
 Regular Expressions and Languages: Regular expressions -- Finite automata and regular expressions; Properties of Regular Languages: Proving languages not to be regular -- Closure properties of regular languages -- Equivalence and Minimization of Automata.
-
-
 
 {{{unit}}}
 |UNIT III | CONTEXT FREE LANGUAGES AND PUSHDOWN AUTOMATA | 10 |
@@ -75,23 +68,19 @@ Undecidablity: Language that is not Recursively Enumerable (RE) -- Undecidable p
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the mathematical part of formal proofs, deduction techniques, inducttion proofs, languages and Construct automata for the given lanuage
-- Understand the relationship between Finite Automata and regular expression (K3)
-- Understand the need of formal languages, and grammars (K3)
-- Design pushdown automata for any CFL (K3)
-- Design Turing machines for any Languages (K3)
-- Explain the Decidability or Undecidability of various problems (K2).
+- Explain the mathematical proofs related to compuation and Construct finite automata for the given language (K3)
+- Analyze the relationship between Finite Automata and regular expression (K4)
+- Explain the need of formal languages, grammars and, analyze the reltionship between pushdown automata and grammar (K4)
+- Constuct Turing machine for the given Language (K3)
+- Explain the Decidability or Undecidability of various problems and make use of it (K3).
+- Design a suitable model for the given application (K6)
 
 ** Text Books 
-1. Hopcroft J E, Motwani R, Ullman J D, ``Introduction to Automata
-   Theory, Languages and Computations'', Pearson Education, 3rd
+1. Hopcroft J E, Motwani R, Ullman J D, ``Introduction to Automata    Theory, Languages and Computations'', Pearson Education, 3rd
    Edition, 2008.
 
 ** References
-1. Harry R Lewis, Christos H Papadimitriou, ``Elements of the
-   Theory of Computation'', Prentice Hall of India, 2nd Edition, 2003.
-2. Peter Linz, ``An Introduction to Formal Language and Automata'',
-   Narosa Publishers, 3rd Edition, 2002.
-3. Mishra K L P, Chandrasekaran N, ``Theory of Computer Science --
-   Automata, Languages and Computation'', Prentice Hall of India, 3rd
+1. Harry R Lewis, Christos H Papadimitriou, ``Elements of the    Theory of Computation'', Prentice Hall of India, 2nd Edition, 2003.
+2. Peter Linz, ``An Introduction to Formal Language and Automata'', Narosa Publishers, 3rd Edition, 2002.
+3. Mishra K L P, Chandrasekaran N, ``Theory of Computer Science -- Automata, Languages and Computation'', Prentice Hall of India, 3rd
    Edition, 2004.
