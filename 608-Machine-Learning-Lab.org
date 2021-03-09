@@ -48,7 +48,7 @@ After the completion of this course, students will be able to:
 - Examine the working of clustering (K4)
 - Apply the ensemble techniques to solve the problems with better performance(K3)
 - Demonstrate the working of dimensionality reduction methods (K3)
-- Develop a open ended solution for any real world problems (K3)
+- Develop an open ended solution for any real world problems (K3)
 
 ** LABORATORY REQUIREMENTS
 Hardware: \\
