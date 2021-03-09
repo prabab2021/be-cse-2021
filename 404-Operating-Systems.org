@@ -1,7 +1,7 @@
 * <<<404>>> OPERATING SYSTEMS
 :properties:
-:author: Mr. H. Shahul Hamead and Ms. S. Lakshmi Priya
-:date: 13-11-2018
+:author: Dr.J.Bhuvana and Ms. S. Lakshmi Priya
+:date: 09-03-2021
 :end:
 
 ** CO PO MAPPING :noexport:
@@ -56,7 +56,7 @@ system boot.
 Processes: Process concept -- Process scheduling -- Operations on
 processes -- Interprocess communication; Threads: Overview --
 Multithreading models -- Thread issues; Process synchronization --
-Critical section problem -- Mutex locks -- Semophores -- Monitors; CPU
+Critical section problem -- Mutex locks -- Semophores; CPU
 Scheduling: FCFS, SJF, Priority, Roundrobin, Rate Monotonic and EDF
 scheduling; Deadlocks -- Avoidance -- Prevention -- Detection and
 Recovery.
@@ -65,7 +65,7 @@ Recovery.
 |UNIT III | MEMORY MANAGEMENT | 8 |
 Main Memory: Contiguous memory allocation -- Segmentation -- Paging --
 32 and 64 bit architecture Examples; Virtual Memory: Demand paging --
-Page replacement algorithms -- Allocation -- Thrashing.
+Page replacement algorithms -- Allocation of Frames -- Thrashing.
 
 {{{unit}}}
 |UNIT IV | STORAGE MANAGEMENT | 9 |
@@ -73,7 +73,7 @@ Mass Storage Structure: Overview -- Disk scheduling and management;
 File System Storage: File concepts -- Directory and disk structure --
 Sharing and protection; File System Implementation: File system
 structure -- Directory structure -- Allocation methods -- Free space
-management -- I/O systems.
+management.
 
 {{{unit}}}
 |UNIT V | CASE STUDY | 7 |
@@ -86,12 +86,12 @@ Android -- Introduction and architecture.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basic services and functionalities of operating systems (K2)
+- Outline the basic services and functionalities of operating systems (K2)
 - Analyze various scheduling algorithms, and understand the different
   deadlock, prevention and avoidance schemes (K4)
-- Understand the different memory management schemes (K2)
-- Understand the functionality of file systems (K2)
-- Compare and contrast Linux, Windows and mobile operating systems (K3).
+- Illustrate the different memory management schemes (K2)
+- Outline the functionality of file systems (K2)
+- Compare and contrast Linux, Windows and mobile operating systems (K2).
 
 ** TEXT BOOKS
 1. Abraham Silberschatz, Peter Baer Galvin, Greg Gagne, "Operating
