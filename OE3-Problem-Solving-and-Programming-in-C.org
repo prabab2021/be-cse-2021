@@ -1,6 +1,6 @@
 * <<<OE3>>> PROBLEM SOLVING AND PROGRAMMING IN C
 :properties:
-:author: J. Bhuvana
+:author: M. Saritha & K. Vallidevi
 :end:
 
 #+begin_comment
