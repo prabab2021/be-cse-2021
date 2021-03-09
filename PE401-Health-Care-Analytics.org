@@ -1,8 +1,8 @@
 * <<<PE401>>> HEALTH CARE ANALYTICS 
 :properties:
-:author: Dr. K. Lekshmi and Ms. A. Beaula
-:date: 
-:end:
+:author: Dr. K. Lekshmi and Dr. A. Beaula
+:date: 09-03-2021
+:end: 
 
 #+begin_comment
 
