@@ -109,11 +109,11 @@ addressing -- Rehashing -- Extendible hashing.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Elucidate and implement various operations of List (K3)
+- Develop program solutions using various operations in List (K3)
 - Develop applications using stack and queue (K3)
-- Implement the operations of balanced and unbalanced trees (K3)
+- Apply the operations of balanced and unbalanced trees to develop solutions to various problems (K3)
 - Develop applications using shortest path and traversal algorithms of graph  (K3)
-- Choose suitable searching and sorting algorithms to solve various computing problems (K4).
+- Analyze the sorting and searching algorithms to solve various computing problems (K4).
    
       
 ** TEXT BOOKS
