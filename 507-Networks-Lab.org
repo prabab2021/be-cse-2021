@@ -49,25 +49,24 @@ Justifications for comments given by Mr. R.Pradeep -
    - Chat
    - File Transfer
 3. Simulate of DNS using UDP sockets.
-4. Write programs simulating ARP /RARP protocols.
-5. Study of Network simulator (NS) and Simulate a wired topology using NS.
-6. Study of TCP/UDP performance using Simulation tool.
-7. Simulate Distance Vector/ Link State Routing algorithm.
-8. Evaluate the performance of Routing protocols using Simulation
-   tool.
-9. Simulation of Congestion Control Algorithms using NS2.
-10. Simulation of error detection code (like CRC).
+4. Write Programs to implement flow control protocol in data link layer.
+5. Simulation of error detection code (like CRC).
+6. Write programs simulating ARP /RARP protocols.
+7. Study of Network simulator (NS) and Simulate a wired topology using NS.
+8. Simulate Distance Vector/ Link State Routing algorithm.
+9. Study of TCP/UDP performance using Simulation tool.
+10. Simulation of Congestion Control Algorithms using NS2 and analyse its performance.
 
 
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Implement various protocols using TCP and UDP (K3)
-- Compare the performance of different transport layer protocols (K4)
-- Use simulation tools to analyze the performance of various network protocols (K3)
-- Analyze various routing algorithms (K4)
-- Implement error detection codes (K3)
+- Learn to implement Socket programming (K3)
+- Implement the various application protocols using TCP and UDP. (K3)
+- Apply the functionalities of data link layer.(K3)
+- Implement various network protocols and Use simulation tools to analyze its performance.(K3)
+- Compare and Analyse the performance of different transport layer protocols (K4) 
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\
