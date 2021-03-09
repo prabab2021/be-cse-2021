@@ -1,6 +1,7 @@
 * <<<507>>> NETWORKS LAB
 :properties:
-:author: Mr. N. Sujaudeen and Ms. S. V. Jansi Rani
+:author: Dr. N. Sujaudeen and Dr. S. V. Jansi Rani
+:date: 09-03-2021
 :date: 20-06-2019
 :date: 12-11-2018
 :end:
