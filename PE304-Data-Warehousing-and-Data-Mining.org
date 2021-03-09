@@ -1,7 +1,7 @@
 * <<<PE304>>> DATA WAREHOUSING AND DATA MINING
 :properties:
-:author: R Priyadharsini & J Suresh
-:date: 5 January 2019
+:author: R Priyadharsini & S Rajalakshmi
+:date: 9 March 2021
 
 #+begin_comment
 - 1. Almost the same as R2017 - changes done in Unit 4 and 5, so that course can be handled effectively within 45 hours.
@@ -18,13 +18,13 @@
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- To understand data warehouse concepts, architecture, business
+- To outline data warehouse concepts, architecture, business
   analysis and tools
-- To understand data pre-processing and data visualization techniques
-- To study algorithms for finding hidden and interesting patterns in
+- To apply data pre-processing and data visualization techniques
+- To select algorithms for finding hidden and interesting patterns in
   data
-- To understand and apply various classification techniques
-- To understand clustering techniques.
+- To compare and choose the classification techniques for real world problems
+- To  apply various clustering techniques.
 
 {{{unit}}}
 | UNIT I | DATA WAREHOUSING AND BUSINESS ANALYSIS | 9 |
