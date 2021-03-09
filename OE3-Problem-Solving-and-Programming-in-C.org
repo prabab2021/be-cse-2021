@@ -1,6 +1,7 @@
 * <<<OE3>>> PROBLEM SOLVING AND PROGRAMMING IN C
 :properties:
-:author: M. Saritha & K. Vallidevi
+:author: Ms. M. Saritha & Dr. K. Vallidevi
+:date: 09-03-2021
 :end:
 
 #+begin_comment
