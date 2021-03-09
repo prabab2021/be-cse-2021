@@ -55,10 +55,8 @@ system boot.
 |UNIT II | PROCESS MANAGEMENT | 12 |
 Processes: Process concept -- Process scheduling -- Operations on
 processes -- Interprocess communication; Threads: Overview --
-Multithreading models -- Thread issues; Process synchronization --
-Critical section problem -- Mutex locks -- Semophores; CPU
-Scheduling: FCFS, SJF, Priority, Roundrobin, Rate Monotonic and EDF
-scheduling; Deadlocks -- Avoidance -- Prevention -- Detection and
+Multithreading models -- Thread issues;  CPU Scheduling: FCFS, SJF, Priority, Roundrobin, Rate Monotonic and EDF
+scheduling; Process synchronization -- Critical section problem -- Mutex locks -- Semophores; Deadlocks -- Avoidance -- Prevention -- Detection and
 Recovery.
 
 {{{unit}}}
