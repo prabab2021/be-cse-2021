@@ -1,7 +1,7 @@
 * <<<307>>> DATA STRUCTURES LAB
 :properties:
-:author: Ms. M. Saritha and Dr. B. Prabavathy
-:date: 
+:author: Mr. H. Shahul Hamead and Ms. M. Saritha 
+:date: 09-03-2021 
 :end:
 
 #+startup: showall
@@ -31,11 +31,11 @@
 
 
 ** SUGGESTIVE EXPERIMENTS
-1. Array implementation of list ADT (e.g Manage student records)
+1. Implementation of Linked List ADT (e.g Manage student records)
 2. Represent polynomial expression as linked list and write functions for polynomial manipulation
 3. Implement doubly linked list ADT (e.g Insert, delete, search, merge, reverse operations)
-4. Array implementation of Stack ADT (e.g Balancing paranthesis, infix to postfix conversion, evaluation of postfix expression)
-5. Array implementation of Queue ADT (e.g Simulating printer jobs)
+4. Implementation of Stack ADT (e.g Balancing paranthesis, infix to postfix conversion, evaluation of postfix expression)
+5. Implementation of Queue ADT (e.g Simulating printer jobs)
 6. Implement an expression tree. Produce its pre-order, in-order, and post-order traversals
 7. Implement binary search tree 
 8. Implement AVL trees (e.g Implement dictionary)  
@@ -44,17 +44,18 @@
 11. Implement Dijkstra's algorithm using graph (e.g Find the shortest route to connect one city to another)
 12. Implement binary search and any two sorting algorithms 
 13. Implement hashing using separate chaining technique 
+14. Mini Project
 
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Implement linear data structures and apply them to solve a given problem (K3) 
-- Implement non-linear data structures and use them for various applications (K3)
+- Apply linear data structures to solve a given problem (K3) 
+- Make use of non-linear data structures for various problem solutions (K3)
 - Analyze a problem statement and suggest an appropriate linear / non-linear data structure
   for solving it (K4)
-- Implement sorting and searching algorithms (K3)
-- Implement hashing techniques for data storage and retrieval (K3).
+- Apply sorting and searching algorithms (K3)
+- Apply hashing techniques for data storage and retrieval (K3)
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
 Hardware:\\
