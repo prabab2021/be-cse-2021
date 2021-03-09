@@ -22,6 +22,7 @@
 | L | T | P | C |
 | 3 | 0 | 0 | 3 |
 
+#+begin_comment
 ** REVISION 2018                                                   :noexport:
 1. Almost the same as AU
 2. The changes are listed below.
@@ -38,13 +39,20 @@
 5. Not Applicable
 6. Did not include Kali Linux or Metasploit tools, as they are
    penetration testing tools to detect the vulnerabilities.
+#+end_comment
+#+begin_comment
+
+
+** REVISION 2021                                                 
+1. Almost the same as AU regulation 2017
+#+end_comment
 
 ** COURSE OBJECTIVES
 - To learn computer forensics and understand incident response
 - To know the methods to collect and store digital evidence
 - To understand the approaches to analyse and validate data
-- To investigate network and mobile forensic data
-- To be familiar with forensics tools.  
+- To understand Ethical Hacking
+- To understand Ethical Hacking in Web
 
 {{{unit}}} 
 | UNIT I | 	INTRODUCTION TO COMPUTER FORENSICS | 9 |
@@ -92,11 +100,11 @@ Unit-5:  AU-Unit V regulation 2017  topics included
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Explain the basics of computer forensics 
-- Relate different computer forensic tools to a given scenario 
-- Outline the analysis and validation process of forensics data 
-- Identify the vulnerabilities in a given network infrastructure 
-- Implement real-world hacking techniques to test system security 
+- Understand the basics of computer forensics 
+- Infer different computer forensic tools to collect data
+- Explain the tools used to Analyze and validate forensics data 
+- Explian Ethical Hacking
+- Explian Ethical Hacking in web
 
 ** TEXT BOOKS 
 1. Chris Prosise, Kevin Mandia, ``Incident Response and Computer
