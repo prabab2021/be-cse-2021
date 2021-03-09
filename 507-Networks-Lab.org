@@ -43,22 +43,21 @@ Justifications for comments given by Mr. R.Pradeep -
 - To use simulation tools to analyze the performance of various network protocols.
 
 ** SUGGESTIVE LAB EXERCISES
-1. Learn to use commands like tcpdump, netstat, ifconfig, nslookup and traceroute. Capture ping and traceroute PDUs using a network protocol analyzer and examine.
-2. Write a HTTP web client program to download a web page using TCP
-   sockets.
-3. Write applications using TCP sockets like:
+1. Learn to use commands like tcpdump, netstat, ifconfig, nslookup and traceroute. Capture ping and traceroute PDUs using a network protocol analyzer and examine. 
+2. Write applications using TCP sockets like:
    - Echo client and echo server
    - Chat
    - File Transfer
-4. Simulate of DNS using UDP sockets.
-5. Write programs simulating ARP /RARP protocols.
-6. Study of Network simulator (NS) and Simulation of Congestion
-   Control Algorithms using NS.
-7. Study of TCP/UDP performance using Simulation tool.
-8. Simulate Distance Vector/ Link State Routing algorithm.
-9. Evaluate the performance of Routing protocols using Simulation
+3. Simulate of DNS using UDP sockets.
+4. Write programs simulating ARP /RARP protocols.
+5. Study of Network simulator (NS) and Simulate a wired topology using NS.
+6. Study of TCP/UDP performance using Simulation tool.
+7. Simulate Distance Vector/ Link State Routing algorithm.
+8. Evaluate the performance of Routing protocols using Simulation
    tool.
-10. Simulation of error correction code (like CRC).
+9. Simulation of Congestion Control Algorithms using NS2.
+10. Simulation of error detection code (like CRC).
+
 
 \hfill *Total Periods: 60*
 
@@ -68,7 +67,7 @@ After the completion of this course, students will be able to:
 - Compare the performance of different transport layer protocols (K4)
 - Use simulation tools to analyze the performance of various network protocols (K3)
 - Analyze various routing algorithms (K4)
-- Implement error correction codes (K3)
+- Implement error detection codes (K3)
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\
