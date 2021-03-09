@@ -1,7 +1,7 @@
 * <<<701>>> DISTRIBUTED SYSTEMS
 :properties:
 :author: Mr. H. Shahul Hamead, Y V Lokeswari.
-:date: 28 Mar 2019.
+:date: 09-03-2021.
 :end:
 
 #+startup: showall
