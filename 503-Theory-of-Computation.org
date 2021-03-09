@@ -1,6 +1,7 @@
 * <<<503>>> THEORY OF COMPUTATION
 :properties:
 :author: Ms. A. Beulah and Mr. V. Balasubramanian
+:date: 09-03-2021
 :end:
 
 #+startup: showall
@@ -101,7 +102,8 @@ problems.
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Construct automata, regular expression for any given pattern (K3)
+- Understand the mathematical part of formal proofs, deduction techniques, inducttion proofs, languages and Construct automata for the given lanuage
+- Understand the relationship between Finite Automata and regular expression (K3)
 - Understand the need of formal languages, and grammars (K3)
 - Design pushdown automata for any CFL (K3)
 - Design Turing machines for any Languages (K3)
