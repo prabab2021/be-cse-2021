@@ -1,7 +1,7 @@
 * <<<304>>> DATA STRUCTURES
 :properties:
-:author: Ms. M. Saritha and Dr. B. Prabavathy
-:date: 
+:author: Mr H Shahul Hamead and Ms M Saritha
+:date: 09-03-2021
 :end:
 #+startup: showall
 
