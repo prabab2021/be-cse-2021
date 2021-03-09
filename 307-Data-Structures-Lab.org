@@ -55,7 +55,7 @@ After the completion of this course, students will be able to:
 - Analyze a problem statement and suggest an appropriate linear / non-linear data structure
   for solving it (K4)
 - Apply sorting and searching algorithms (K3)
-- Apply hashing techniques for data storage and retrieval (K3)
+- Apply hashing techniques for data storage and retrieval (K3).
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
 Hardware:\\
