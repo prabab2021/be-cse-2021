@@ -42,14 +42,8 @@
 #+end_comment
 
 {{{unit}}}
-|UNIT I | FINITE AUTOMATA AND REGULAR LANGUAGES  | 10 |
-Basic Mathematical Notation and Techniques; Finite Automata (FA):
-Deterministic Finite Automata (DFA) -- Non-deterministic Finite
-Automata (NFA) -- Finite automata with epsilon transitions --
-Equivalence of FAs -- Minimization of DFA; Regular Expressions and
-Languages: Regular expressions -- Finite automata and regular
-expressions; Properties of Regular Languages: Proving languages not to
-be regular -- Closure and decision properties of regular languages.
+|UNIT I | MATHEMATICAL INTRODUCTION AND FINITE AUTOMATA   | 8 |
+Basic Mathematical Notation and Techniques: Introduction to Formal Proof -- Additional Forms of Proof -- Inductive Proofs; Finite Automata (FA): Deterministic Finite Automata (DFA) -- Non-deterministic Finite Automata (NFA) -- Finite automata with epsilon transitions -- Equivalence of FAs.
  
 #+begin_comment
 AU R-17 Uint I and II are combined together to a single unit. Unit I
@@ -57,47 +51,26 @@ is grouped under Finite Automata.
 #+end_comment
 
 {{{unit}}}
-|UNIT II | CONTEXT FREE GRAMMARS AND LANGUAGES  | 8 |
-Chomsky's Hierarchy of Languages; Context-Free Grammar and Languages:
-Context-Free Grammar (CFG) -- Parse trees -- Ambiguity in grammars and
-languages; Normal Forms for Context Free Grammars: Eliminating useless
-symbols -- Computing the generating and reachable symbols --
-Eliminating null productions -- Eliminating unit productions --
-Chomsky Normal Form (CNF) -- Greibach Normal Form (GNF).
+|UNIT II | REGULAR LANGUAGES  | 9 |
+Regular Expressions and Languages: Regular expressions -- Finite automata and regular expressions; Properties of Regular Languages: Proving languages not to be regular -- Closure properties of regular languages -- Equivalence and Minimization of Automata.
 
-#+begin_comment
-Few topics of AU R-17 Unit III and IV are combined together and named
-as CFG and Languages.
-#+end_comment
+
 
 {{{unit}}}
-|UNIT III | PUSHDOWN AUTOMATA | 9 |
-Pushdown Automata (PDA): Definition of the Pushdown automaton -- The
-languages of a PDA -- Equivalence of PDAs and CFGs -- Deterministic
-Pushdown automata; Pumping Lemma for Context Free Languages.
+|UNIT III | CONTEXT FREE LANGUAGES AND PUSHDOWN AUTOMATA | 10 |
+Chomsky's Hierarchy of Languages; Context-Free Grammar and Languages: Context-Free Grammar (CFG) -- Parse trees -- Ambiguity in grammars and languages; Normal Forms for Context Free Grammars: Elimination of Useless Symbols, epsilon and unit productions -- Chomsky Normal Form (CNF) -- Greibach Normal Form (GNF).
 
-#+begin_comment
-Few topics of AU R-17 Uint III is removed and reframed as second
-computational model (Pushdown Automata).
-#+end_comment
+Pushdown Automata (PDA): Definition of the Pushdown automaton -- The languages of a PDA -- Equivalence of PDAs and CFGs -- Deterministic Pushdown automata; Pumping Lemma for Context Free Languages.
 
 {{{unit}}}
 |UNIT IV | TURING MACHINES  | 9 |
-The Turing Machine -- Programming Techniques for Turing Machines --
-Extensions to the Basic Turing Machine -- Restricted Turing Machines.
-
-#+begin_comment
-Turing machine in AU R-17 is a part of Unit IV. Now it is reframed as
-a separate unit with new versions of TM.
-#+end_comment
+The Turing Machine -- Programming Techniques for Turing Machines: Storage in the State -- Multiple Tracks -- Subroutines; Extensions to the Basic Turing Machine.
 
 {{{unit}}}
 |UNIT V | UNDECIDABILITY | 9 |
-Undecidablity: Language that is not Recursively Enumerable (RE) --
-Undecidable problem that is RE -- Undecidable problems about Turing
-machines -- Post's Correspondence Problem (PCP) -- Other undecidable
-problems.
+Undecidablity: Language that is not Recursively Enumerable (RE) -- Undecidable problem that is RE -- Undecidable problems about Turing machines -- Post's Correspondence Problem (PCP).
 
+\hfill *Tutorial: 15*
 \hfill *Total Periods: 60*
 
 ** Course Outcomes
