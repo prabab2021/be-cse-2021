@@ -1,6 +1,7 @@
 * <<<OE2>>> OBJECT ORIENTED PROGRAMMING TECHNIQUES
 :properties:
 :author: B. Bharathi
+:date: 09-03-2021
 :end:
 #+begin_comment
 - 1. Most of the topics are same as AU syllabus. First unit of the OOP in AU syllabus is divided in to three units.Mulitithreading and event handling topics are removed
