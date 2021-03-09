@@ -86,7 +86,7 @@ After the completion of this course, students will be able to:
 - Solve various problems using List operations (K3)
 - Apply stack and queue to different problems (K3)
 - Develop problem solutions using trees (K3)
-- Make use of graphs to solve problems (K3)
+- Make use of graphs to solve problems (K3).
 
 ** TEXT BOOKS
 1. M A Weiss, ``Data Structures and Algorithm Analysis in C'',
