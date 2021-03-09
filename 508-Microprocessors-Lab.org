@@ -1,6 +1,6 @@
 * <<<508>>> MICROPROCESSORS LAB 
 :properties:
-:author: Ms. S. Manisha and Mr. K. R. Sarath Chandran
+:author: Mr. K. R. Sarath Chandran and Ms.S.Angel Deborah
 :end:
 
 #+begin_comment
