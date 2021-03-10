@@ -79,6 +79,9 @@ Inclusion
       Concepts related to ReactJS have been included
 Thought process
       It is a recently developed lightweight client side framework useful for quick development of web application
+10th March 2021
+https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/
+From the above link, we have taken the recent concepts
 #+END_COMMENT
 
 {{{unit}}}
