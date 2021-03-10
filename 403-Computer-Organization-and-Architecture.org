@@ -1,7 +1,7 @@
 * <<<403>>> COMPUTER ORGANIZATION AND ARCHITECTURE
 :properties:
-:author: Ms. K. Lekshmi and Dr. D. Venkatavara Prasad
-:date: 
+:author: Dr. K. Lekshmi, Dr. D. Venkatavara Prasad, Dr. K. R. Sarath Chandran
+:date: 10-03-2021
 :end:
 
 #+startup: showall
@@ -61,7 +61,7 @@ MIPS addressing.
 {{{unit}}}
 | UNIT II | ARITHMETIC FOR COMPUTERS | 9 |
 Addition and subtraction; Multiplication; Division; Floating Point
-Representation: Floating point operations; Subword parallelism.
+Representation: Floating point operations.
 
 {{{unit}}}
 | UNIT III | PROCESSOR AND CONTROL UNIT | 9 |
@@ -72,7 +72,7 @@ predictive branching: Spectre and Meltdown.
 
 {{{unit}}}
 | UNIT IV | MEMORY & I/O SYSTEMS | 9 |
-Memory Hierarchy; Memory technologies; Cache Memory: Measuring and
+Memory Hierarchy; Memory technologies; Cache Memory: Basics and cache mapping techniques; Measuring and
 improving cache performance; Virtual Memory: TLBs; Accessing I/O
 devices -- Interrupts; Direct memory access; Bus structure -- Bus
 operation -- Arbitration; Interface circuits; USB.
