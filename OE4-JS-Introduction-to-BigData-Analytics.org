@@ -50,10 +50,10 @@ Statistical  Methods: Regression modelling – Multivariate analysis;  Classific
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- Understand how to leverage the insights from big data analytics (K2)
-- Understand and apply distributed computing for better storage of data (K3)
+- Explore how to leverage the insights from big data analytics (K2)
+- Apply distributed computing for better storage of data (K3)
 - Develop applications using Hadoop related tools(K4)
-- Use database frameworks like Hive  and  Hbase for data  analysis(K3)
+- Adapt database frameworks, Hive  and  Hbase for data  analytics(K3)
 - Solve applications using  statistical and data  analytic methods (K3)
 
 ** Text Books
