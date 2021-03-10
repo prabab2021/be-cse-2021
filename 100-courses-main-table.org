@@ -44,7 +44,7 @@
 |  5 |      | Humanities Elective I                                              | HS  |   3 |  3 | 0 |  0 |   3 |
 |  6 |      | Foundations of Data Science                                        | ES  |   3 |  3 | 0 |  0 |   3 |
 |    |      | /Practical/                                                        |     |     |    |   |    |     |
-|  8 |      | Design Thinking and Engineering Practices Lab                      | ES  |   3 |  0 | 0 |  3 | 1.5 |
+|  7 |      | Design Thinking and Engineering Practices Lab                      | ES  |   3 |  0 | 0 |  3 | 1.5 |
 |----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
 |    |      | /Total/                                                            |     |  25 | 18 | 1 |  6 | 19. |
 |----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
@@ -130,14 +130,14 @@
 |    |      | *Grand Total*                                                      |     |     |    |   |    | 163 |
 |----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
 #+TBLFM: @14$5..@14$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @26$5..@26$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @38$5..@38$>=vsum(@-II+3..@-5)+vsum(@-3..@-1)
-#+TBLFM: @50$5..@50$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @62$5..@62$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @74$5..@74$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @86$5..@86$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
-#+TBLFM: @93$5..@93$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
-#+TBLFM: @94$9=@III+1+@IIIII+1+@IIIIIII+1+@IIIIIIIII+1+@IIIIIIIIIII+1+@IIIIIIIIIIIII+1+@IIIIIIIIIIIIIII+1+@IIIIIIIIIIIIIIIII+1;%3d
+#+TBLFM: @25$5..@25$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
+#+TBLFM: @37$5..@37$>=vsum(@-II+3..@-5)+vsum(@-3..@-1)
+#+TBLFM: @49$5..@49$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
+#+TBLFM: @61$5..@61$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
+#+TBLFM: @73$5..@73$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
+#+TBLFM: @85$5..@85$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
+#+TBLFM: @92$5..@92$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
+#+TBLFM: @93$9=@III+1+@IIIII+1+@IIIIIII+1+@IIIIIIIII+1+@IIIIIIIIIII+1+@IIIIIIIIIIIII+1+@IIIIIIIIIIIIIII+1+@IIIIIIIIIIIIIIIII+1;%3d
 
 
 #+latex: \newpage
