@@ -74,7 +74,8 @@ University syllabus, as this technology has been used by many people.
 |UNIT II |INTRODUCTION TO VIRTUALIZATION|9| 
 Basics of Virtualization -- Virtualization Types -- Implementation Levels of Virtualization
 -- Virtualization Structures / Tools and Mechanisms -- Virtualization of CPU, Memory, I/O Devices 
--- Virtual Clusters and Resource management -- Virtualization for Data-Center Automation -- Taxonomy of Virtual Machines.
+-- Virtual Clusters and Resource management -- Virtualization for Data-Center Automation 
+-- Virtualization Support and Disaster Recovery -- Taxonomy of Virtual Machines.
 
 #+begin_comment
 Altered the topic to remove repetition and give a flow for the topic.
