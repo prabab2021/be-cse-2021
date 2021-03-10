@@ -1,8 +1,8 @@
 * <<<305>>> OBJECT ORIENTED PROGRAMMING
 :properties:
 :author: Dr. B. Prabavathy and Dr. B. Bharathi
-:date: 
-:end:
+:date: 09-03-2021
+:end: 
 
 #+startup: showall
 #+begin_comment
@@ -37,7 +37,7 @@ Principles of OOP: Classes -- Objects -- Data hiding -- Data
 encapsulation -- Inheritance -- Polymorphism; Definition of Classes:
 Objects -- Methods -- Access specifiers -- Static and final classes
 and members; Object Construction and Destruction -- Fundamental
-programming structures in Java; Streams: Input-Output -- Examples in
+programming structures in Java; Streams: Input--Output, String handling -- Examples in
 Java.
 
 #+begin_comment
@@ -45,15 +45,30 @@ Retain
       Introduction to the OO concepts and fundamental programming structures in Java 
 Inclusion
       I/O streams
+09.03.2021
+CCC Feedback Committee Considerations
+Inclusion:  String handling
+Retain: Stream Input Output, Idea is to teach various streams to be used for input and output     
 #+end_comment
 
 {{{unit}}}
 | UNIT II | INHERITANCE 	 | 10 |
 Inheritance: Definition -- Types of inheritance: Single -- Multilevel
--- Multiple -- Hierarchical -- Hybrid; Subclass constructors --
+-- Multiple -- Hierarchical; Subclass constructors --
 Interfaces in Java: Definition -- Implementation -- Extending
 interfaces -- Inheritance versus delegation -- Inheritance rules --
 Inner classes -- Examples in Java.
+
+#+begin_comment
+Retain 
+      Introduction to the OO concepts and fundamental programming structures in Java 
+Inclusion
+      I/O streams
+09.03.2021
+CCC Feedback Committee Considerations
+Deletion:  Hybrid Inheritance
+Retain: Delegation Concept, Need to be taught without event handling    
+#+end_comment
 
 {{{unit}}}
 | UNIT III | POLYMORPHISM AND EXCEPTION HANDLING	 | 7 |
@@ -87,7 +102,7 @@ Removal
 | UNIT V | GENERIC COLLECTIONS FOR ADTS AND ALGORITHMS	 | 9 |
 Introduction to collections -- Collection Classes and Interfaces:
 Array list -- Linked list -- Queue -- Set -- Trees; Iterators for
-collections -- Map class -- Algorithms: Sorting -- Searching --
+collections -- Map class -- Collection algorithms: Sorting -- Searching --
 User-defined algorithms -- Examples in Java.
 
 #+begin_comment
@@ -95,17 +110,27 @@ Removal
 	Since event-driven programming (AU R-2017) is specific to programming language, it is removed 
 Inclusion
 	Generic collections have been included
+09.03.2021
+CCC Feedback Committee Considerations
+Change:  Algorithms: Sorting– Searching – User defined algorithms changed to Collection algorithms: Sorting and Searching
 #+end_comment
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Solve problems using classes and objects (K3)
+- Make use of classes and objects for problem solving (K3)
 - Develop programs using inheritance and interfaces (K3)
-- Apply the concepts of polymorphism (K3)
-- Design applications using generic programming (K3)
-- Develop algorithms using generic collections (K3).
+- Apply the concepts of polymorphism and exception handling (K3)
+- Build applications using generic programming (K3)
+- Apply the concepts of generic collections  (K3).
+
+#+begin_comment
+
+09.03.2021
+CCC Feedback Committee Considerations
+CO's have been reframed based on the latest action words suggested
+#+end_comment
      
 ** TEXT BOOKS
 1. Danny Poo, Derek Kiong, Swarnalatha Ashok, ``Object-Oriented

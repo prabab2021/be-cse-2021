@@ -1,7 +1,7 @@
 * <<<308>>> OBJECT ORIENTED PROGRAMMING LAB
 :properties:
 :author: Dr. B. Prabavathy and Dr. B. Bharathi
-:date: 
+:date: 09-03-2021
 :end:
 
 #+startup: showall
@@ -30,16 +30,24 @@
 - To understand and implement generic programming.
 
 ** SUGGESTIVE EXPERIMENTS
-1. Program using classes and objects (Eg: Electricity bill generation)
-2. Program to perform string operations using ArrayList. 
-3. Program to implement packages (Eg: Currency converter)
-4. Program using Inheritance (Eg: Payroll application)
-5. Prgram to implement Polymorphism (Eg. Area of different shapes)
-6. Program to implement generic methods (Eg: Sorting)
-7. Design a Java interface for ADTs. (Eg.Stack, Queue) 
-8. Program to perform file operations. (Eg.existence, permission,type, length in bytes) 
-9. Develop a mini project for any application using the constructs of Java. 
+1.	Program using classes and objects (Eg: Electricity bill generation)
+2.	Program using Inheritance (Eg: Payrollapplication)
+3.	Program to implement Polymorphism (E.g. Area of different shapes)
+4.	Design a Java interface for ADTs. (E.g. Stack, Queue)
+5.	Programs using Exception handling. (E.g. Bank Account manipulation)
+6.	Program to implement packages (Eg: Currency converter)
+7.	Program to implement generic classes, methods (Eg: Generic stack, Sorting)
+8.	Program to perform operations using Collection classes (Eg: ArrayList, LinkedList)
+9.	Develop a mini project for any application using the constructs of Java.
 
+
+#+begin_comment
+09.03.2021
+CCC Feedback Committee Considerations
+- The order of the exercises has been revised. 
+-	Exception handling exercise was added and the experiment using file operations was removed.
+
+#+end_comment
 
 \hfill *Total Periods: 45*
 
@@ -47,9 +55,15 @@
 After the completion of this course, students will be able to: 
 - Develop applications in Java using classes and methods(K3)
 - Apply inheritance and interface concepts to write programs(K3)
-- Write Java programs using polymorphic methods and objects(K3)
+- Build Java programs using polymorphic methods and objects(K3)
 - Develop applications using generic methods and generic programming(K3)
-- Apply appropriate features of oop programming paradigm to design mini project(K3).
+- Apply appropriate features of object-oriented programming paradigm to develop real time applications (K3).
+
+#+begin_comment
+09.03.2021
+CCC Feedback Committee Considerations
+- CO's have been reframed based on the latest action verbs
+#+end_comment
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
 Hardware:\\

@@ -1,6 +1,7 @@
 * <<<PE506>>> MOBILE COMPUTING
 :properties:
 :author: Dr. V. S. Felix Enigo and Ms. A. Beulah
+:date: 10/03/2021
 :end:
 
 #+startup: showall

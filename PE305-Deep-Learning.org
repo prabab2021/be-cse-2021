@@ -1,7 +1,7 @@
 * <<<PE305>>> DEEP LEARNING
 :properties:
 :author: Mr. B. Senthil Kumar and Dr. D. Thenmozhi
-:date: 
+:date: 10-3-21
 :end:
 
 #+startup: showall
@@ -91,14 +91,29 @@ Same as in Unit-IV in PG syllabus except the Representation learning.
 
 \hfill *Total Periods: 45*
 
+Group Projects:
+1) Solving XOR problem using DNN
+2) Character / Face recognition using CNN
+3) Language modeling using RNN
+4) NER/POS tagging/Machine Translation using Encoder-Decoder model
+5) Image augmentation using GANs
+
+
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand basics in deep neural networks (K2)
+- Explain the basics in deep neural networks (K2)
 - Apply Convolution Neural Network for image processing (K3)
-- Apply Recurrent Neural Network and its variants for text analysis
-  (K3)
+- Apply Recurrent Neural Network and its variants for text analysis (K3)
 - Apply model evaluation for various applications (K3)
-- Understand the concepts in autoencoders and generative models (K2).
+- Apply autoencoders and generative models for suitable applications (K3)
+- Develop a real world application using suitable deep neural networks (K4)
+
+#+begin_comment
+Added the Group projects.
+Modified the Course outcomes.
+#+end_comment
+
+
 
 ** TEXT BOOKS
 1. Ian Goodfellow, Yoshua Bengio, Aaron Courville, ``Deep Learning'',

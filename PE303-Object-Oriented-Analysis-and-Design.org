@@ -1,7 +1,7 @@
 * <<<PE603>>> OBJECT ORIENTED ANALYSIS AND DESIGN
 :properties:
 :author: Dr. K. Valli Devi and Dr. S. Manisha
-:date:
+:date: 9.3.2021
 :end:
 
 #+begin_comment

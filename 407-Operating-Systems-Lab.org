@@ -1,7 +1,7 @@
 * <<<407>>> OPERATING SYSTEMS LAB
 :properties:
-:author: Mr. H. Shahul Hamead and Ms. S. Lakshmi Priya
-:date: 13-11-2018
+:author: Dr.J.Bhuvana and Ms. S. Lakshmi Priya
+:date: 09-03-2021
 :end:
 
 ** CO PO MAPPING :noexport:
@@ -43,30 +43,29 @@
 ** SUGGESTIVE EXPERIMENTS
 1. Basics of UNIX commands and study of system calls.
 2. Implement a few UNIX commands using system calls.
-3. Implement the various CPU Scheduling Algorithms
-4. Implement Semaphores
-5. Implement Shared memory and IPC
+3. Implement Shared memory and IPC
+4. Implement the various CPU Scheduling Algorithms
+5. Implement Semaphores
 6. Implement Bankers Algorithm for Deadlock Avoidance
-7. Implement Threading & Synchronization Applications
+7. Develop applications using threads
 8. Implement the following Memory Allocation Methods for variable
    sized partition: a) First Fit b) Worst Fit c) Best Fit
-9. Implement Paging Technique of Memory Management
-10. Implement the following Page Replacement Algorithms
-    a) FIFO     b) LRU      c) LFU
-11. Implement the various File Organization Techniques
+9. Implement the following Page Replacement Algorithms
+    a) FIFO     b) LRU      c) Optimal
+10. Implement the various File Organization Techniques
     a) Single-level   b) Hierarchical
-12. Implement the following File Allocation Strategies
+11. Implement the following File Allocation Strategies
     a) Sequential     b) Indexed        c) Linked
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Profile the performance of various CPU Scheduling Algorithms (K3)
-- Implement Deadlock avoidance and Detection Algorithms (K3)
+- Analyze the performance of various CPU Scheduling Algorithms (K4)
+- Implement Deadlock avoidance algorithms (K3)
 - Implement Semaphores and IPC (K3)
-- Profile the performance of the various Page Replacement Algorithms (K3)
-- Implement  File Organization and File Allocation Strategies (K3)
+- Implement various Page Replacement Algorithms (K3)
+- Implement File Organization and File Allocation Strategies (K3)
       
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\

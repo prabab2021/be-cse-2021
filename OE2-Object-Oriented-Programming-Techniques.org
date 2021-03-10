@@ -1,6 +1,7 @@
 * <<<OE2>>> OBJECT ORIENTED PROGRAMMING TECHNIQUES
 :properties:
 :author: B. Bharathi
+:date: 09-03-2021
 :end:
 #+begin_comment
 - 1. Most of the topics are same as AU syllabus. First unit of the OOP in AU syllabus is divided in to three units.Mulitithreading and event handling topics are removed
@@ -101,11 +102,11 @@ I/O streams,Multithreading topics are removed
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand object oriented programming features (K2)
+- Outline the features of object oriented programming (K2)
 - Develop programs using basic constructs of Java (K3)
-- Solve problems using classes and methods (K3) 
+- Experiment with classes and methods for problem solving (K3) 
 - Develop programs using inheritance and interfaces (K3) 
-- Use the concept of polymorphism (K3).
+- Apply the concept of polymorphism (K3).
       
 ** TEXT BOOKS
 1. Herbert Schildt, ``Java: The Complete Reference'', 8th Edition,

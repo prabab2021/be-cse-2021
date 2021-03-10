@@ -1,8 +1,8 @@
 * <<<PE401>>> HEALTH CARE ANALYTICS 
 :properties:
-:author: Dr. K. Lekshmi and Ms. A. Beaula
-:date: 
-:end:
+:author: Dr. K. Lekshmi and Dr. A. Beaula
+:date: 09-03-2021
+:end: 
 
 #+begin_comment
 
@@ -57,34 +57,29 @@ Clinical Applications: EHR and Decision Support.
 
 {{{unit}}}
 |UNIT IV | Advanced Data Analytics for Healthcare | 9 |(T1:ch10-13)
-A Review of Clinical Prediction Models: Basic Statistical Prediction Models -- Alternative Clinical Prediction Models -- 
-Survival Models -- Evaluation and Validation; Temporal Data Mining for Healthcare Data: Association Analysis -- 
+A Review of Clinical Prediction Models: Basic Statistical Prediction Models -- Alternative Clinical Prediction Models -- Survival Models -- Evaluation and Validation; Temporal Data Mining for Healthcare Data: Association Analysis -- 
 Temporal Pattern Mining -- Sensor Data Analysis -- Other Temporal Modeling Methods; Visual Analytics for Healthcare: 
 Introduction to Visual Analytics and Medical Data Visualization -- Visual Analytics in Healthcare; 
-Predictive Models for Integrating Clinical and Genomic Data: Issues and Challenges in Integrating Clinical and Genomic Data --
-Different Types of Integration -- Different Goals of Integrative Studies -- Validation 
+Predictive Models for Integrating Clinical and Genomic Data: Issues and Challenges in Integrating Clinical and Genomic Data -- Different Types of Integration -- Different Goals of Integrative Studies -- Validation 
 
 {{{unit}}}
 |UNIT V | Applications and Practical Systems for Healthcare | 9 | (T1:Ch17-19)
 Fraud Detection in Healthcare: Definition and Types of Healthcare Fraud -- Identifying Healthcare Fraud from Data -- 
-Knowledge Discovery-Based Solutions for Identifying Fraud; Data Analytics for Pharmaceutical Discoveries: Introduction -- Chemical and Biological Data -- 
-Spontaneous Reporting Systems (SRSs); Clinical Decision Support Systems: Various Types of CDSS, Diagnostic Decision Support.
+Knowledge Discovery-Based Solutions for Identifying Fraud; Data Analytics for Pharmaceutical Discoveries: Introduction -- Chemical and Biological Data -- Spontaneous Reporting Systems (SRSs); Clinical Decision Support Systems: Various Types of CDSS, Diagnostic Decision Support.
 
 
 \hfill *Total Periods: 45*
 
-#+begin_comment
+
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basic and advanced data analytics in public health (K2)
-- Design data models that integrate patient data from multiple sources to create
-comprehensive, patient-centered views of data using analytics tools for EHR, Image and Sensor Data (K3)
-- Design data models that integrate patient data from multiple sources to create
-comprehensive, patient-centered views of data using analytics tools for Signal, Genome and Text Data.(K3)
+- Explain the basic and advanced data analytics in public health (K2)       
+- Build data models that integrate patient data from multiple sources to create comprehensive, patient-centered views of data using analytics tools for EHR, Image and Sensor Data (K3)
+- Build data models that integrate patient data from multiple sources to create comprehensive, patient-centered views of data using analytics tools for Signal, Genome and Text Data.(K3)
 - Discover meaningful patterns and trends in advanced data analytics systems. (K4)
-- Apply descriptive and inferential methodologies according to the type of study
-design in Healthcare practical systems (K3).
-#+end_comment
+- Apply descriptive and inferential methodologies according to the type of study design in Healthcare practical systems (K3).
+- Develop a health care system for a given application. (K3)
+
  
 ** TEXT BOOKS
 1. Chandan K. Reddy and Charu C. Aggarwal, ``Healthcare Data Analytics'', CRC Press, Taylor & Francis Group, LLC., 2015 

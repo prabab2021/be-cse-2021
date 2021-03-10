@@ -1,7 +1,7 @@
 * <<<502>>> MICROPROCESSORS AND INTERFACING
 :properties:
 :author: Dr. K. R. Sarath Chandran and Ms.S.Angel Deborah
-:date: 
+:date: 6.03.2021
 :end:
 
 #+begin_comment

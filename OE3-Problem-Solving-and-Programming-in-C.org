@@ -1,6 +1,7 @@
 * <<<OE3>>> PROBLEM SOLVING AND PROGRAMMING IN C
 :properties:
-:author: J. Bhuvana
+:author: Ms. M. Saritha & Dr. K. Vallidevi
+:date: 09-03-2021
 :end:
 
 #+begin_comment
@@ -90,10 +91,10 @@ Same as that of R2017 fifth unit
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Understand the basic programming constructs in C (K2) 
-- Write functions in C (K2) 
+- Illustrate functions in C (K2) 
 - Develop C programs using arrays and pointers (K3)
-- Write programs using strings and structures (K3) 
-- Do operations with files in C (K2).
+- Solve problems using strings and structures (K3) 
+- Explain file operations using programs in C (K2).
 
       
 ** TEXT BOOKS

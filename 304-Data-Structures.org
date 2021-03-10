@@ -1,7 +1,7 @@
 * <<<304>>> DATA STRUCTURES
 :properties:
-:author: Ms. M. Saritha and Dr. B. Prabavathy
-:date: 
+:author: Mr H Shahul Hamead and Ms M Saritha
+:date: 09-03-2021
 :end:
 #+startup: showall
 
@@ -109,11 +109,11 @@ addressing -- Rehashing -- Extendible hashing.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Elucidate and implement various operations of List (K3)
+- Develop program solutions using various operations in List (K3)
 - Develop applications using stack and queue (K3)
-- Implement the operations of balanced and unbalanced trees (K3)
+- Apply the operations of balanced and unbalanced trees to develop solutions to various problems (K3)
 - Develop applications using shortest path and traversal algorithms of graph  (K3)
-- Choose suitable searching and sorting algorithms to solve various computing problems (K4).
+- Analyze the sorting, searching and hashing algorithms to solve various computing problems (K4).
    
       
 ** TEXT BOOKS

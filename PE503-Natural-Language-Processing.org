@@ -1,7 +1,7 @@
 * <<<PE503>>> NATURAL LANGUAGE PROCESSING
 :properties:
 :author: Dr. D. THenmozhi and Mr. B. Senthil Kumar
-:date: 
+:date: 09-03-2021
 :end:
 
 #+begin_comment
@@ -22,103 +22,136 @@
 
 ** COURSE OBJECTIVES
 - To learn language models
+- To learn text pre processing techniques
 - To understand the levels of knowledge in language processing
 - To develop NLP applications.
+- To apply traditional learning and deep learning for NLP applications.
 
 {{{unit}}}
-| UNIT I | OVERVIEW AND LANGUAGE MODELING | 8 |
-Origins and challenges of NLP -- Knowledge in language processing --
-NLP applications; Language Modeling: Language and grammar --
-Grammar-based language models -- Lexical functional grammar --
-Government and binding; Statistical Language Model: N-gram model --
-Smoothing techniques.
+| UNIT I | TEXT PRE-PROCESSING AND LANGUAGE MODELLING | 9 |
+Knowledge in language processing -- NLP applications; -- Regular Expressions -- Words -- 
+Corpora -- Text Normalization -- Minimum Edit distance -- N-gram language models -- 
+Neural language models - RNNs as language models
+
 
 #+begin_comment
 
-- 1. In AU syllabus few topics of word level analysis are is covered in this unit. We have moved those topics to Unit 2. 
-- 2. Smoothing techniques are part of statistical language models are given in Unit 2. We have included in Unit 1. 
-- 3. Removed spelling error detection and correction techniques.
-- 4. Unit 1 is same as Unit 1 of M.E syllabus
+- 1. Removed grammar based language models
+- 2. Added Neural language models
+- 3. Moved text pre processing from Unit II to Unit 1
+
 #+end_comment
 
 {{{unit}}}
-| UNIT II | WORD LEVEL AND SYNTACTIC ANALYSIS | 10 |
-Word Level Analysis: Regular expressions -- Survey of morphology --
-Word and sentence tokenization -- Stemmer -- Word classes --
-Part-of-Speech Tagging: HMM POS tagging; Syntactic Analysis:
-Constituency -- Context-free grammar -- Dependency Grammar; Parsing:
-Top-down -- Bottom-up -- Ambiguity -- Early algorithm -- CYK --
-Probabilistic CFG -- Probabilistic CYK parsing; Tree banks.
+| UNIT II | WORD LEVEL AND SYNTACTIC ANALYSIS | 9 |
+Word Level Analysis: Word classes -- Part-of-Speech Tagging: HMM POS tagging; Named Entities (NE): NE Tagging -- 
+Conditional Random Field NE recognizer; Syntactic Analysis: Constituency -- Context-free grammar 
+-- Grammar rules -- Treebanks; Parsing: Top-down -- Bottom-up -- Ambiguity -- CKY Parsing -- 
+Shallow parsing -- Dependency parsing 
+
 
 #+begin_comment
 
-- 1. As Unit 2 and 3 of AU are combined to Unit 2, the topics namely Transducers, Maximum Entropy models, Probabilistic Lexicalized CFGs, Feature structures and Unification of feature structures are removed.
-- 2. Unit 2 is same as Unit 2 of M.E syllabus
+- 1. Removed Early algorithm
+- 2. Added Shallow parsing
+- 3. Moved pre processing to Unit I from Unit II
+- 4. Added NE tagging in word level analysis
 #+end_comment
 
 
 {{{unit}}}
 | UNIT III | SEMANTIC ANALYSIS | 9 |
-The representation of Meaning: Meaning representation -- Computational desiderata for representation; 
-Lexical Semantics: Word senses -- Relations -- WordNet -- Thematic roles -- Selectional restrictions; 
-Word Sense Disambiguation: Dictionary-based -- Supervised -- Minimally-supervised -- Unsupervised; 
-Word Similarity: Thesaurus methods -- Distributional methods.
+Vector Semantics -- Words and Vectors -- Cosine similarity -- Tf-idf -- Positive PMI -- Word2vec-- 
+Semantic properties of embeddings; Lexical Semantics: Word Senses -- Relations between senses -- 
+WordNet -- Word Sense Disambiguation
+
 
 #+begin_comment
 
-- 1. The topics namely First-Order Logic and Description Logics are removed. Unsupervised WSD is added
-- 2. Discourse processing is moved to Unit 4 when compared with Unit 3 of M.E syllabus
+- 1. Removed basic representations of semantics
+- 2. Added Vector semantics
+- 3. Removed thematic roles from lexical semantics
+- 4. Added Word embeddings
+
 #+end_comment
 
 {{{unit}}}
-| UNIT IV | DISCOURSE PROCESSING, IR AND IE | 9 |
-Discourse Processing: Reference resolution -- Anaphora resolution algorithms -- Co-reference resolution; 
-Information Retrieval: The vector space model -- Term weighting -- Evaluation of IR; 
-Information Extraction: Named entity recognition -- Relation detection and classification.
+
+| UNIT IV | COREFERENCE RESOLUTION AND MACHINE TRANSLATION  | 9 |
+Coreference Resolution: Coreference phenomena -- Mention detection -- Mention-pair architecture;
+RNNs for sequence labeling and classification --  Stacked and Bi-directional RNN -- Machine Translation(MT): 
+Lexical divergence and typology -- Encoder-Decoder with RNNs --  MT Evaluation; 
+
+
 
 #+begin_comment
 
-- 1. AU does not focus on NLP applications. NLP applications namely IR and IE are included in this unit. Discourse processing of Unit 5 of AU syllabus is included here.
-- 2. Removed Unit 4 of M.E syllabus and included applications in Unit 4 and 5 in detail.
+- 1. Added Mention detection
+- 2. Removed Centering and other basic algorithms for reference resolution
+- 3. Added deep learning for sequence labeling and classification
+- 4. Moved machine translation from Unit V to Unit IV
 #+end_comment
 
 {{{unit}}}
-| UNIT V | MACHINE TRANSLATION AND QUESTION ANSWERING  | 9 |
-Machine Translation(MT): Problems in machine translation -- Classical
-MT -- Statistical MT; Factoid Question Answering: Question processing -- Passage retrieval
--- Answer processing -- Evaluation of factoid answers.
+| UNIT V | NLP Applications | 9 |
+Sentiment Classification: Naive Bayes classifier -- Optimizing for Sentiment Analysis -- Evaluation; 
+Information Extraction: Relation extraction; Information Retrieval ; IR-based Factoid Question Answering: 
+IR-based QA Datasets -- Answer span extraction; 
+
+
 
 #+begin_comment
 
-- 1. AU focuses on lexical resources but not on applications. NLP applications namely MT and QA  are included in this unit. Lexical resources are removed which will be indirectly covered through NLP applications.
-- 2. Additionally included the application namely QA when compared with M.E syllabus.
+- 1. Moved IR and IE from Unit IV to Unit V
+- 2. Added Sentiment analysis
+
 #+end_comment
+
+
+Group Projects:
+1) CRF POS/NER Tagging
+2) Word Generation using N-grams
+3) CFG / Dependency parsing
+4) Semantics of Word2vec embeddings
+5) Neural machine translation - NMT
+6) Sequence classification / Naive Bayes classifier for Sentiment analysis
+7) Relation Extraction
+
+
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
-- Describe the language models (K3)
-- Explain levels of knowledge in language processing (K3)
-- Apply computational methods in semantic and discourse processing (K3)
-- Apply NLP techniques to MT, IR, IE, QA and Summarization systems (K2)
-- Apply evaluation metrics for different NLP applications (K3).
+- Apply text pre processing techniques and build the language models (K3)
+- Explain the basic levels of knowledge namely word level and syntax level in language processing (K2)
+- Apply computational methods in lexical and vector semantics (K3)
+- Apply NLP techniques for discourse processing and build machine translation systems using deep learning (K3)
+- Apply learning methodologies for different NLP applications (K3).
+- Develop any NLP application by using NLP techniques and learning methodologies (K4)
 
 ** TEXT BOOKS
 1. Daniel Jurafsky and James H Martin, ``Speech and Language
    Processing: An introduction to Natural Language Processing,
    Computational Linguistics and Speech Recognition'', 2nd Edition,
    Prentice Hall, 2008.
-2. Tanveer Siddiqui, U S Tiwary, ``Natural Language Processing and
-   Information Retrieval'', Oxford University Press, 2008.
+2. https://web.stanford.edu/~jurafsky/slp3/
+
 
 ** REFERENCES
 1. Christopher D Manning, Hinrich Schutze, ``Foundations of
    Statistical Natural Language Processing'', MIT Press, 1999.
-2. Nitin Indurkhya, Fred J Damerau, ``Handbook of Natural Language
+2. Steven Bird, Ewan Klien and Edward Loper, Natural Language Processing with Python,
+   O'Reilly, 2009.
+3. Nitin Indurkhya, Fred J Damerau, ``Handbook of Natural Language
    Processing'', 2nd Edition, CRC Press, 2010.
-3. Steven Bird, Ewan Klein, ``Natural Language Processing with
-   Python'', O'Reilly Media, 2009.
-4. Ruslan Mitkov, ``The Oxford Handbook of Computational
-   Linguistics'', Oxford University Press, 2009.
-5. NLTK -- Natural Language Tool Kit - http://www.nltk.org/.
+
+
+Projects:
+1. NLTK -- Natural Language Tool Kit - http://www.nltk.org/.
+2. http://nlp-iiith.vlabs.ac.in/
+3. https://www.tensorflow.org/tutorials/text/nmt_with_attention
+4. Yoav Goldberg, "Neural Network Methods for Natural Language
+   Processing", Synthesis Lectures on Human Language Technologies,
+   Morgan & Claypool publishers, 2017.
+ 

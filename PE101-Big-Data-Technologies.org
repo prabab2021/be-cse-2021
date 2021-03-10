@@ -1,7 +1,10 @@
 * <<<PE101>>> BIG DATA TECHNOLOGIES
 :properties:
-:author: Ms. S. Rajalakshmi and Ms. R. Priyadharsini
-:date: 12-11-2018
+:author: Dr. J Suresh and Dr. Y. V. Lokeswari
+:date: 09-03-2021
+:end:
+:author: Ms. Rajalakshmi S and Ms. Priyadharsini R
+:date: 28 Mar 2018.
 :end:
 
 #+begin_comment

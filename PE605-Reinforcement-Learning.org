@@ -1,7 +1,7 @@
 * <<<PE605>>> REINFORCEMENT LEARNING
 :properties:
-:author: 
-:date: 
+:author: Ms. M. Saritha and Ms. S. Rajalakshmi
+:date: 09-03-2021
 :end:
 
 #+begin_comment
@@ -15,46 +15,29 @@
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- To understand the basics of information retrieval with pertinence to
-  modeling
-- To understand various components of IR system
-- To understand machine learning techniques for text classification
-  and clustering
-- To explore various IR applications.
+- To understand the basics of probability theory and reinforcement learning
+- To explore various methods used in reinforcement learning
+- To apply reinforcement learning techniques for various case studies
 
-{{{unit}}}
-| UNIT I | INTRODUCTION | 9 |
+| UNIT I | BASICS OF PROBABILITY THEORY | 9 |
 
 
-#+begin_comment
+| UNIT II | INTRODUCTION TO REINFORCEMENT LEARNING | 7 |
+Reinforcement Learning -- Examples -- Elements of Reinforcement Learning -- Limitations and Scope -- An Extended Example: Tic-Tac-Toe.
 
 
-#+end_comment
+| UNIT III |  | TABULAR SOLUTION METHODS | 11 |
+Multi-armed Bandits: A k-armed Bandit problem -- Action-value methods -- Incremental implementation -- Tracking a nonstationary problem -- Optimistic initial values -- Upper-confidence-bound action selection; Finite Markov Decision Processes; Dynamic Programming; Monte Carlo Methods; Temporal-Difference Learning.
 
-
-{{{unit}}}
-| UNIT II |  | 9 |
-
-
-
-
-{{{unit}}}
-| UNIT III |  | TABULAR SOLUTION METHODS |
-
-
-{{{unit}}}
-| UNIT IV |  | APPROXIMATE SOLUTION METHODS |
-
+| UNIT IV |  | APPROXIMATE SOLUTION METHODS | 10 |
+On-policy Prediction with Approximation; On-policy Control with Approximation; Off-policy Methods with Approximation; Eligibility Traces; Policy Gradient Methods. 
 
 #+begin_comment
 
 #+end_comment
 
-{{{unit}}}
-|UNIT V|APPLICATIONS AND CASE STUDIES|9|
-XML Retrieval -- Multimedia IR -- Parallel and Distributed IR --
-Digital Libraries -- Social Media Retrieval -- Content-based Image
-Retrieval -- Online Public Access Catalogs (OPACs).
+| UNIT V | APPLICATIONS AND CASE STUDIES | 8 |
+TD-Gammon; Samuel’s Checkers Player; Watson’s Daily-Double Wagering; Optimizing Memory Control; Human-level Video Game Play; Personalized Web Services.
 
 #+begin_comment
 - 1. 
@@ -64,14 +47,11 @@ Retrieval -- Online Public Access Catalogs (OPACs).
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Describe various IR modeling techniques (K3)
-- Identify and design the various components of an Information
-  Retrieval system (K3)
-- Apply machine learning techniques to text classification and
-  clustering for efficient Information Retrieval (K3)
-- Describe various IR applications (K2)
-- Apply IR evaluation metrics to measure the performance of IR
-  systems (K3).
+- To understand the basics of probability theory (K2)
+- To outline the elements of reinforcement learning (K2)
+- To illustrate tabular solution methods for various problems (K2)
+- To explain approximate solution methods for different problems (K2)
+- Apply reinforcement learning techniques for various case studies (K3).
 
 ** TEXT BOOKS
 1. Richard S. Sutton & Andrew G. Barto, ``Reinforcement Learning: An Introduction'', The MIT Press, 2nd Edition, 2018.

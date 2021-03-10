@@ -66,23 +66,20 @@ Project planning process; Software Project Estimation: Decomposition techniques 
 
 {{{unit}}}
 | UNIT III | REQUIREMENTS ANALYSIS AND SPECIFICATION | 9 |
-Software Requirements: Functional and non-functional -- User requirements -- System requirements -- Software requirements document;
-Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- Requirements validation -- Requirements
-Management; Classical Analysis: Structured system analysis; Petri Nets.
+Software Requirements: Functional and non-functional -- User requirements -- System requirements -- Software requirements document; Requirement Engineering Process: Feasibility studies -- Requirements elicitation and analysis -- Requirements validation -- Requirements Management; Classical Analysis: Structured system analysis; Requirement modelling tools.
 
 #+begin_comment
-1. Removed: Data dictionary
-2. This unit was second unit in AU R2017
+1. Removed: Petrinet
+2. Added: Requirements modelling tools
 #+end_comment
 
 {{{unit}}}
 | UNIT IV | SOFTWARE DESIGN | 9 |
-Design Concepts: Design process -- Design concepts -- Design model -- Modeling principles; Architectural Design: Architectural Styles
---Architectural Mapping using Dataflow; User Interface Design: The Golden rules -- Interface Analysis -- Interface Design; Design for security; Component Level Design: Designing Class based Components -- Traditional Components.
+Design Concepts: Modularity -- Abstraction-- Functional Independence -- Information hiding -- Refinement;Architectural Design: Architectural Styles--Architectural Mapping using Dataflow; Component Level Design: Coupling and cohesion-- Designing Traditional Components;User Interface Design: The Golden rules -- Interface Analysis -- Interface Design steps; Design for security.
 
 #+begin_comment
-1. Removed: Design Heuristic
-2. Added: Design for security
+1. Removed: Design process, Design model, Modeling principles
+2. Added: specific topics in design concept (Modularity -- Abstraction-- Functional Independence -- Information hiding -- Refinement)
 2. This unit was third unit in AU R2017
 #+end_comment
 
@@ -92,12 +89,11 @@ Design Concepts: Design process -- Design concepts -- Design model -- Modeling p
 
 {{{unit}}}
 | UNIT V | TESTING AND MAINTENANCE | 9 |
-Software Testing Fundamentals; Internal and External Views of Testing: White Box Testing -- Basis Path Testing -- Control Structure Testing-- Black Box Testing -- Unit Testing -- Integration Testing -- Regression Testing -- Validation Testing -- System Testing -- Security Testing; Debugging; Software Implementation: Coding Practices and Principles; Maintenance: Types -- Reengineering -- Reverse Engineering -- Restructuring.
+Software Testing Fundamentals; Internal and External Views of Testing: White Box Testing -- Basis Path Testing -- Control Structure Testing-- Black Box Testing -- Unit Testing -- Integration Testing -- Regression Testing -- Validation Testing -- System Testing -- Security Testing; Debugging; Software Implementation: Coding Practices and Principles; Maintenance: Types -- Reengineering versus Reverse Engineering.
 
 #+begin_comment
-1. Removed: Refactoring, BPR model, Forward Engineering
-2. Added: Coding Principles, Security testing
-3. This unit was fourth unit in AU R2017
+1. Removed: Restructuring.
+2. Added: Reengineering versus Reverse Engineering 
 #+end_comment
 
 

@@ -1,7 +1,7 @@
 * <<<PE306>>> MULTICORE ARCHITECTURE AND PROGRAMMING
 :properties:
 :author: Dr. D. Venkatavara Prasad and Ms.S.Angel Deborah 
-:date: 
+:date: 6.03.2021
 :end:
 
 #+startup: showall

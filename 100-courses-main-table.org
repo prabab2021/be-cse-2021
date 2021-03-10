@@ -39,12 +39,11 @@
 |    |      | /Theory/                                                           |     |     |    |   |    |     |
 |  1 |      | Complex Functions and Laplace Transforms                           | BS  |   4 |  3 | 1 |  0 |   4 |
 |  2 |      | Basic Electrical and Electronics Engineering                       | ES  |   3 |  3 | 0 |  0 |   3 |
-|  3 |      | Engineering Fundamentals and Practices                             | ES  |   3 |  3 | 0 |  0 |   3 |
+|  3 |      | Engineering Fundamentals and Practices                             | ES  |   6 |  3 | 0 |  3 | 4.5 |
 |  4 |      | Environmental Science                                              | BS  |   3 |  3 | 0 |  0 |   0 |
 |  5 |      | Humanities Elective I                                              | HS  |   3 |  3 | 0 |  0 |   3 |
 |  6 |      | Foundations of Data Science                                        | ES  |   3 |  3 | 0 |  0 |   3 |
 |    |      | /Practical/                                                        |     |     |    |   |    |     |
-|  7 |      | EFP Lab                                                            | ES  |   3 |  0 | 0 |  3 | 1.5 |
 |  8 |      | Design Thinking and Engineering Practices Lab                      | ES  |   3 |  0 | 0 |  3 | 1.5 |
 |----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
 |    |      | /Total/                                                            |     |  25 | 18 | 1 |  6 | 19. |

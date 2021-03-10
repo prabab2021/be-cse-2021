@@ -1,6 +1,7 @@
 * <<<405>>> DESIGN AND ANALYSIS OF ALGORITHMS
 :properties:
 :author: Dr.S.Kavitha and Mr.V.Balasubramanian
+:date: 09-03-2021
 :end:
 
 #+startup: showall
@@ -11,8 +12,11 @@
 
 ** COURSE OBJECTIVES
 - Learn the algorithm analysis techniques
-- Become familiar with the different algorithm design techniques
-- Understand the limitations of algorithm power.
+- Understand the conceppt of different algorithm design techniques
+- Understand the limitations of algorithmic power.
+- Analyze the asymptotic performance of algorithms.
+- Demonstrate the familiarity with important algorithms and data structures.
+
 
 {{{unit}}}
 |UNIT I|INTRODUCTION AND ANALYSIS |10| 
@@ -24,7 +28,7 @@ algorithms.
 
 {{{unit}}}
 |UNIT II|BRUTE FORCE AND DIVIDE AND CONQUER |8| 
-# Brute Force: String matching -- Closest-pair problem; 
+Brute Force: String matching -- Closest-pair problem; 
 Exhaustive search: Traveling salesman problem -- Knapsack problem.
 Divide and Conquer: Mergesort -- Quicksort -- Multiplication of large
 integers and Strassen's matrix multiplication.
@@ -72,11 +76,12 @@ problem -- Knapsack problem.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Design algorithms for various computing problems (K3)
+- Develop algorithms for various computing problems (K3)
 - Analyze the time and space complexity of algorithms (K4)
 - Compare the different algorithm design techniques for a given problem (K4)
-- Modify existing algorithms to improve efficiency (K4)
+- Identify suitable algorithm design technique for solving computational problems (K4)
 - Understand the limitations of algorithmic power (K2).
+- Develop the important algorithms with appropriate data structures (K6)
 
 ** TEXT BOOKS
 1. Anany Levitin, ``Introduction to the Design and Analysis of

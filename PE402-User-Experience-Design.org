@@ -1,6 +1,7 @@
 ﻿* <<<PE402>>> USER EXPERIENCE DESIGN
 :properties:
 :author: Dr. S. Manisha and Dr. Y.V. Lokeswari
+:date: 9.3.2021
 :end:
 
 #+startup: showall

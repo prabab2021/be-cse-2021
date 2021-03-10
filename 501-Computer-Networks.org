@@ -2,6 +2,7 @@
 # COMPUTER COMMUNICATION ANDNETWORKS
 :properties:
 :author:  Ms. S. V. Jansi Rani and Mr. N. Sujaudeen
+:date: 09-03-2021
 :date: 20-06-2019
 :end:
 
@@ -50,18 +51,25 @@ Added: Socket Programming
 #+end_comment
 
 {{{unit}}}
-|UNIT II | DATA-LINK LAYER AND MEDIA ACCESS | 9 |
-Introduction: Link-Layer addressing -- DLC services -- Data-Link layer
-Protocols -- HDLC -- PPP -- Media access control -- Wired LANs:
-Ethernet -- Wireless lANs -- Introduction -- IEEE 802.11 -- Bluetooth
+|UNIT II | DATA-LINK LAYER AND MEDIA ACCESS | 10 |
+Introduction: Link-Layer addressing -- Error Correction and Detection -- DLC services -- Data-Link layer
+Protocols -- HDLC -- PPP -- Media Access Control -- Wired LANs:
+Ethernet -- Wireless LANs -- Introduction -- IEEE 802.11 -- Bluetooth
 -- Connecting devices.
+
+#+begin_comment
+Added: Error Correction and Detection
+#+end_comment
 
 {{{unit}}}
 |UNIT III | NETWORK LAYER | 9 |
-Network layer services -- Packet switching -- Performance -- IPV4
-Addresses -- Forwarding of IP packets; Network Layer Protocols: IP --
-ICMP v4 -- Unicast routing algorithms -- Protocols -- Multicasting
-basics -- IPV6 addressing -- IPV6 protocol.
+Network layer services -- Performance -- IPV4 Addresses -- Forwarding 
+of IP packets; Network Layer Protocols: IP -- ICMP v4 -- Unicast routing algorithms
+-- Protocols -- Multicasting basics -- IPV6 addressing -- IPV6 protocol.
+
+#+begin_comment
+Removed: Packet Switching (Redundant)
+#+end_comment
 
 {{{unit}}}
 |UNIT IV | TRANSPORT LAYER | 9 |
@@ -69,7 +77,7 @@ Introduction: Transport layer protocols -- Services -- Port numbers --
 User datagram protocol -- Transmission control protocol -- SCTP.
 
 {{{unit}}}
-|UNIT V | APPLICATION LAYER | 9 |
+|UNIT V | APPLICATION LAYER | 8 |
 Traditional applications -- Electronic mail (SMTP, POP3, IMAP, MIME)
 -- HTTP -- File transfer protocol -- Secure shell (SSH) -- DNS --
 SNMP.
@@ -78,15 +86,15 @@ SNMP.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the principles, design, terminology and concepts of the
+- Describe the principles, design, terminology and concepts of the
   network models (K2)
-- Learn the protocols of data link layer and apply error control
+- Select the protocols of data link layer and apply error control
   mechanisms (K3)
-- Understand the core functions of network layer protocols and apply
+- Choose the core functions of network layer protocols and apply
   them for data communication (K3)
 - Learn the purpose of Transport Layer Protocols such as UDP and TCP
   (K2)
-- Understand the Application Layer Protocols and their basic
+- Illustrate the Application Layer Protocols and their basic
   functionalities (K2).
 
 ** TEXT BOOKS 
