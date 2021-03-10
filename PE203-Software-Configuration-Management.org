@@ -45,7 +45,7 @@ development -- Process model selection.
 {{{unit}}}
 |UNIT II | ESTIMATION AND SCHEDULING | 9 |
 Effort Estimation Techniques: Expert judgement -- FPA -- FP mark II --
-COSMIC -- COCOMO II -- Cost estimation; Scheduling: Project schedules
+COSMIC --  -- Cost estimation; Scheduling: Project schedules
 -- Network model -- Identifying critical activities.
 
 #+begin _comment
