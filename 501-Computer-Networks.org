@@ -3,7 +3,6 @@
 :properties:
 :author:  Ms. S. V. Jansi Rani and Mr. N. Sujaudeen
 :date: 20-06-2019
-:date: 12-11-2018
 :end:
 
 ** CO PO MAPPING :noexport:
