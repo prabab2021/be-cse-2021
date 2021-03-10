@@ -32,25 +32,27 @@
    - Aggregate functions
    - Grouping and Ordering commands
 4. Views 
-5. Database Programming: PL/SQL - Cursors
-6. Procedures and Functions
-7. Triggers
-8. Exception Handling
-9. Database design 
+5. Database Programming: 
+   - PL/SQL - Procedures and Functions
+6. Triggers
+7. Database design 
    - ER Model, ER-to-relational mapping
    - Normalization
-10. Implement the database application using any Front-end
+8. Implement the database application using any Front-end IDE.
+9. Object features of SQL: 
+   - UDTs and sub-types, Tables using UDTs, Inheritance, Method definition
+10. Querying Object tables
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Use data definitions and manipulation commands(K3)
-- Write complex SQL Queries(K3)
 - Implement Database programming using PL/SQL(K3)
 - Design a database for real-time applications(K3)
-- Implement and analyze the use of Tables, PL/SQL for a realistic
+- Implement and analyze the use of Tables, PL/SQL for a real world 
   database applications using a Front-end tool(K3)
+- Write Queries for Object-relational databases (K3)
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\
