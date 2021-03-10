@@ -137,8 +137,7 @@ syllabus.
 Data Security and Storage; Identity and Access Management(IAM) -- IAM
 Challenges -- IAM Architecture and Practice; Security Management in
 the Cloud -- Security Management Standards -- SaaS, Paas and IaaS
-Availability Management -- Access Control; Security-As-A-[Cloud]
-Service.
+Availability Management -- Access Control; Security-As-A-Service.
 
 #+begin_comment
 
