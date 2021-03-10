@@ -16,6 +16,7 @@
 - To understand procedural extensions of databases
 - To design a database schema for an application using Normalization
 - To implement typical database applications using Front-end tools
+- To learn queries in Object-relational databases
 
 ** SUGGESTIVE EXPERIMENTS
 1. Data Definition Commands 
@@ -52,7 +53,7 @@ After the completion of this course, students will be able to:
 - Design a database for real-time applications(K3)
 - Implement and analyze the use of Tables, PL/SQL for a real world 
   database applications using a Front-end tool(K3)
-- Write Queries for Object-relational databases (K3)
+- Write Queries in Object-relational databases (K3)
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\
