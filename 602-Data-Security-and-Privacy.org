@@ -1,7 +1,7 @@
 * <<<PE307>>> DATA SECURITY AND PRIVACY
 :properties:
-:author: Mr. N. Sujaudeen and Mr. V. Balasubramanian
-:date: 09-03-2021
+:author: Dr. V. Balasubramanian and Dr. J. Bhuvana
+:date: 10-03-2021
 :end:
 
 #+startup: showall
