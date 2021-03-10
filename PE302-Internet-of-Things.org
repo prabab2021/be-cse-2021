@@ -1,7 +1,7 @@
 * <<<PE302>>> INTERNET OF THINGS
 :properties:
-:author: Dr. V. S. Felix Inigo and Mr. K. R. Sarath Chandran
-:date: 
+:author: Dr. V. S. Felix Inigo, Dr. K. R. Sarath Chandran and Dr. K. Madheswari
+:date: 10-03-2021
 :end:
 
 #+begin_comment
