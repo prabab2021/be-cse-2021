@@ -46,7 +46,7 @@ The growth of blockchain technology -- Distributed Systems -- P2P -- Distributed
 
 {{{unit}}}
 |UNIT II | DECENTRALIZATION | 9 |
-Methods of Decentralization - Routes to Decentralizatin - Smart Contract - Decentralized Organization - Platforms for Decentralization - Consensus Algorithms
+Methods of Decentralization - Routes to Decentralization - Smart Contract - Decentralized Organization - Platforms for Decentralization - Consensus Algorithms
 
 {{{unit}}}
 |UNIT III | Cryptocurrencies | 9 |
