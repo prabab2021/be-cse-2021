@@ -1,6 +1,7 @@
 * <<<601>>> INTERNET PROGRAMMING 
 :properties:
 :author: Dr. B. Prabavathy and Dr. V. S. Felix Enigo
+:Date: 10-03-2021
 :end:
 
 #+BEGIN_COMMENT
@@ -35,23 +36,11 @@
 
 {{{unit}}}
 |UNIT I | WEB ESSENTIALS | 9 |
-Web Essentials: Clients -- Servers -- Communication; Basic internet
-protocols -- World wide web -- HTTP Request Message -- HTTP Response
-Message -- Web Clients -- Web Servers; Web Server Security: Web server
-vulnerabilities -- Effects and types of attacks -- Avoiding attacks on
-web servers; HTML5: Tables -- Lists -- Image -- Redefined form
-elements -- Semantic elements -- Audio and video controls -- CSS3:
-Inline -- Embedded -- External style sheets -- Rule cascading --
-Inheritance -- Adding graphics to web pages -- Transformations --
-Transitions -- Animations.
+Web Essentials: Clients -- Servers -- Communication; HTTP protocol: Request and Response Messages -- Web Clients -- Web Servers; Web Server: Vulnerabilities – Attacks & its prevention; HTML5: Table -- List – Image -- Form -- Semantic elements -- CSS3: Types of style sheets – Selectors – Box Model -- Rule cascading -- Inheritance -- Transformations --Transitions -- Animations.
 
 {{{unit}}}
 |UNIT II | CLIENT SIDE PROGRAMMING | 9 |
-Client side programming language -- Javascript: Variables -- Data
-types -- Statements -- Operators -- Objects -- Arrays -- Built-in
-objects -- Event handling -- DOM: Introduction -- Document tree --
-Node object -- Document -- Element -- Text nodes -- Event handling --
-Event propagation.
+JavaScript: Variables – Data types -- Statements – Function -- Object -- Array -- Built-in objects (String and Date) --  JSON: Parse, Stringify -- Event handling: Form, Mouse and Keyboard events -- DOM: Document tree –  Node object – Document object -- Event handling: Event propagation.
 
 #+BEGIN_COMMENT
 Removal
@@ -77,10 +66,7 @@ Thought Process
 
 {{{unit}}}
 |UNIT IV | CLIENT SIDE FRAMEWORK | 9 |
-Introduction to ReactJS –- Pure react: React elements -– ReactDOM –-
-Children -– Constructing elements with data -– React components;
-Props, state and compoenet tree –- React router: Incorporation –-
-Netsing -– Parameters; Communication of react with server.
+Javascript for ReactJS –- React elements – ReactDOM –- React Components – Mapping Arrays with JSX – Create React App – useState Hook – Refactoring for Advanced Reusability – State in component tree --  Dependency Array – Rules to follow with hooks – ESLint – Prettier -- React router: Incorporation –-Nesting – Parameters.
 
 #+BEGIN_COMMENT
 Removal
