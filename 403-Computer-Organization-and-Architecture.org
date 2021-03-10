@@ -111,10 +111,10 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS
 1. David A Patterson, John L Hennessy, ``Computer Organization
    and Design: The Hardware/Software Interface'', 5th Edition,
-   Morgan Kaufmann / Elsevier, 2014 (Units I, III, IV, V).
+   Morgan Kaufmann / Elsevier, 2014.
 2. Carl Hamacher, Zvonko Vranesic, Safwat Zaky, Naraig Manjikian,
    ``Computer Organization and Embedded Systems'', 6th Edition, Tata
-   McGraw Hill, 2012 (Unit II).
+   McGraw Hill, 2012.
 
 ** REFERENCES
 1. William Stallings, ``Computer Organization and Architecture –
