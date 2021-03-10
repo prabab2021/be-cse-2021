@@ -151,4 +151,7 @@ Projects:
 1. NLTK -- Natural Language Tool Kit - http://www.nltk.org/.
 2. http://nlp-iiith.vlabs.ac.in/
 3. https://www.tensorflow.org/tutorials/text/nmt_with_attention
+4. Yoav Goldberg, "Neural Network Methods for Natural Language
+   Processing", Synthesis Lectures on Human Language Technologies,
+   Morgan & Claypool publishers, 2017.
  
