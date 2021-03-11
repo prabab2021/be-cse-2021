@@ -33,10 +33,10 @@
 - To Learn the methods of problem solving in AI using various search strategies.
 - To Understand the concepts of knowledge representation and inference using logic.
 - To Understand the concepts of knowledge representation and inference under uncertainty.
-- To Learn the introductory concepts of machine learning in AI.
+- To Learn the some appliactions in text, image and robotics.
 
 {{{unit}}}
-| UNIT I | FOUNDATIONS | 8 |
+| UNIT I | FOUNDATIONS | 7 |
 Introduction: What is AI; Intelligent Agents: Agents and environments
 -- Good behavior -- The nature of environments -- Structure of agents;
 Philosophical Foundations: Weak AI -- Strong AI -- Ethics and risks of
@@ -53,7 +53,7 @@ search: Games -- Optimal decisions in games -- Alpha-beta pruning.
 
 
 {{{unit}}}
-| UNIT III | KNOWLEDGE REPRESENTATION & REASONING | 9 |
+| UNIT III | KNOWLEDGE REPRESENTATION & REASONING | 10 |
 Logical Agents: Knowledge-based agents -- Propositional logic --
 Propositional theorem proving; First order logic: Syntax and semantics
 for first order logic -- Using first order logic; Inference in first
@@ -92,15 +92,16 @@ Natural Language Processing: Language Models -- InformationRetrieval; Perception
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
+- Introduce the concept of AI and Agent (K2)
 - Identify, formulate, understand and solve AI problems using search
   techniques (K3)
 - Elucidate the concept of Knowledge Representation and inference
   using logics (K2)
 - Elucidate the concept of Knowledge Representation and inference
   under uncertainty (K2)
-- Elucidate the concept of learning in AI applications (K3)
 - Implement various search, inference and learning algorithms in AI
   (K4).
+  
 
 ** TEXT BOOKS
 1. Stuart Russell, Peter Norvig, ``Artificial Intelligence -- A Modern
