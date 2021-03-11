@@ -22,11 +22,10 @@
 
 #+begin_comment
 2021
-1. This course syllabus is substantially different from the current one in Anna University curriculum in unit IV and V.
-2. Unit IV, Uncertainty is given instaed of Software agents.Unit V, Introduction to Learning is given, instead of Applications.
-3. Not Applicable
-4. Five Course outcomes specified and aligned with units
-5. Lab Exercises are given for each unit.
+1. Unit V - COMMUNICATIONG. PERCEIVING AND ACTING, is given instaed of Learning, since Machine Learning comes in the same semester.
+2. Five Course outcomes specified and aligned with units
+3. Lab Exercises are given for each unit.
+4. CO6 is included.
 #+end_comment
 
 ** COURSE OBJECTIVES
