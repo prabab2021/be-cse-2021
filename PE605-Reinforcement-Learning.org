@@ -19,22 +19,17 @@
 - To explore various methods used in reinforcement learning
 - To apply reinforcement learning techniques for various case studies
 
-| UNIT I | BASICS OF PROBABILITY THEORY | 9 |
-
-
-| UNIT II | INTRODUCTION TO REINFORCEMENT LEARNING | 7 |
+| UNIT I | INTRODUCTION | 7 |
 Reinforcement Learning -- Examples -- Elements of Reinforcement Learning -- Limitations and Scope -- An Extended Example: Tic-Tac-Toe.
 
+| UNIT II | TABULAR SOLUTION METHODS - I  | 10 |
+Multi-armed Bandits; Finite Markov Decision Processes; Dynamic Programming.
 
-| UNIT III |  | TABULAR SOLUTION METHODS | 11 |
-Multi-armed Bandits: A k-armed Bandit problem -- Action-value methods -- Incremental implementation -- Tracking a nonstationary problem -- Optimistic initial values -- Upper-confidence-bound action selection; Finite Markov Decision Processes; Dynamic Programming; Monte Carlo Methods; Temporal-Difference Learning.
+| UNIT III |  | TABULAR SOLUTION METHODS - II | 10 |
+Monte Carlo Methods; Temporal-Difference Learning; n-step Bootstrapping.
 
 | UNIT IV |  | APPROXIMATE SOLUTION METHODS | 10 |
-On-policy Prediction with Approximation; On-policy Control with Approximation; Off-policy Methods with Approximation; Eligibility Traces; Policy Gradient Methods. 
-
-#+begin_comment
-
-#+end_comment
+On-policy Prediction with Approximation; Off-policy Methods with Approximation; Policy Gradient Methods. 
 
 | UNIT V | APPLICATIONS AND CASE STUDIES | 8 |
 TD-Gammon; Samuel’s Checkers Player; Watson’s Daily-Double Wagering; Optimizing Memory Control; Human-level Video Game Play; Personalized Web Services.
@@ -47,7 +42,6 @@ TD-Gammon; Samuel’s Checkers Player; Watson’s Daily-Double Wagering; Optimiz
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- To understand the basics of probability theory (K2)
 - To outline the elements of reinforcement learning (K2)
 - To illustrate tabular solution methods for various problems (K2)
 - To explain approximate solution methods for different problems (K2)
