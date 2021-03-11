@@ -1,7 +1,8 @@
 * <<<604>>> ARTIFICIAL INTELLIGENCE
 # PRINCIPLES OF ARTIFICIAL INTELLIGENCE
 :properties:
-:author: Dr. S. Sheerazuddin and Dr. S. Kavitha
+:author: Dr. T.T.Mirnalinee and Dr. S. Kavitha
+:date: 11-03-2021
 :end:
 
 #+startup: showall
@@ -11,6 +12,16 @@
 | 3 | 0 | 2 | 4 |
 
 #+begin_comment
+2018
+1. This course syllabus is substantially different from the current one in Anna University curriculum in unit IV and V.
+2. Unit IV, Uncertainty is given instaed of Software agents.Unit V, Introduction to Learning is given, instead of Applications.
+3. Not Applicable
+4. Five Course outcomes specified and aligned with units
+5. Lab Exercises are given for each unit.
+#+end_comment
+
+#+begin_comment
+2021
 1. This course syllabus is substantially different from the current one in Anna University curriculum in unit IV and V.
 2. Unit IV, Uncertainty is given instaed of Software agents.Unit V, Introduction to Learning is given, instead of Applications.
 3. Not Applicable
@@ -59,10 +70,8 @@ its use; Probabilistic Reasoning: The semantics of Bayesian networks
 uncertain reasoning.
 
 {{{unit}}}
-| UNIT V | LEARNING | 9 |
-Learning from Examples: Forms of learning -- Supervised learning --
-Learning decision trees; Reinforcement learning: Passive reinforcement
-learning -- Active reinforcement learning -- Application to robot control.
+| UNIT V | COMMUNICATIONG. PERCEIVING AND ACTING | 9 |
+Natural Language Processing: Language Models -- InformationRetrieval; Perception: Image Formation -- Image-Processing Operations -- Object Recognition by Appearance; Robotics: Introduction -- Robotic Hardawre -- Perception -- Application Domains.
 
 \hfill *Theory Periods: 45*
 
