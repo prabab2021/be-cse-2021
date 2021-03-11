@@ -49,8 +49,10 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS
 1. Richard S. Sutton & Andrew G. Barto, ``Reinforcement Learning: An Introduction'', The MIT Press, 2nd Edition, 2018.
-2. Marco Wiering & Martijn van Otterlo, ``Reinforcement Learning State-of-the-Art'', Springer, 2012
+2. Marco Wiering & Martijn van Otterlo, ``Reinforcement Learning State-of-the-Art'', Springer, 2012.
 
 ** REFERENCES
-1. 
-2. 
+1.  Boris Belousov, Hany Abdulsamad, Pascal Klink, Simone Parisi & Jan Peters, ``Reinforcement Learning Algorithms: Analysis and Applications'', Springer, 1st edition, 2021. 
+2.  Micheal Lanham, ``Hands-On Reinforcement Learning for Games'', Packt Publishing Ltd., 2020.
+3.  Taweh Beysolow II, ``Applied Reinforcement Learning with Python'', Apress, 2019.
+4.  Dimitri Bertsekas, ``Reinforcement Learning and Optimal Control'', Athena Scientific, 2019. 
