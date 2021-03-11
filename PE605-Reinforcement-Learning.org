@@ -15,9 +15,9 @@
 |3|0|0|3|
 
 ** COURSE OBJECTIVES
-- To understand the basics of probability theory and reinforcement learning
+- To understand the basics of reinforcement learning techniques
 - To explore various methods used in reinforcement learning
-- To apply reinforcement learning techniques for various case studies
+- To apply reinforcement learning techniques for various case studies.
 
 | UNIT I | INTRODUCTION | 7 |
 Reinforcement Learning -- Examples -- Elements of Reinforcement Learning -- Limitations and Scope -- An Extended Example: Tic-Tac-Toe.
@@ -49,7 +49,7 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS
 1. Richard S. Sutton & Andrew G. Barto, ``Reinforcement Learning: An Introduction'', The MIT Press, 2nd Edition, 2018.
-2. 
+2. Marco Wiering & Martijn van Otterlo, ``Reinforcement Learning State-of-the-Art'', Springer, 2012
 
 ** REFERENCES
 1. 
