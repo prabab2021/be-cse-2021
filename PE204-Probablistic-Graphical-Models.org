@@ -1,7 +1,7 @@
 * <<<PE204>>> PROBABLISTIC GRAPHICAL MODELS
 :properties:
-:author:
-:date: 
+:author: Dr.R.S.Milton, Ms.S.Rajalakshmi
+:date: 9.3.21
 :end:
 
 #+begin_comment

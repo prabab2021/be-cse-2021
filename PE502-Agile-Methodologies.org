@@ -1,7 +1,7 @@
 * <<<PE502>>> AGILE METHODOLOGIES
 :properties:
 :author: Dr. S. Saraswathi and Dr. K. Madheswari
-:date: 09-03-2021
+:date: 11-03-2021
 :end:
 
 #+startup: showall
@@ -51,6 +51,7 @@ for project management -- Task planning and effort tracking -- The
 project manager's new work.
 #+begin_comment
 The topics Iterative and Evolutionary Development is added to differentiate agile from other methodologies.
+References: Text book 2 (Chapter 2,3),  Text Book1  Chapters:1,2,6
 #+end_comment
 
 {{{unit}}}
@@ -63,6 +64,7 @@ The customer -- Requirements evolution -- Non-functional requirements;
 Tools for Requirements Management in AMs.
 #+begin_comment
 Focuses on agile requirement engineering whereas anna university syllabus on unit II is about agile process that not in flow 
+Refernces: Reference book 4 and 5
 #+end_comment
 
 {{{unit}}}
@@ -74,6 +76,7 @@ Identifying and monitoring the flow -- Bottleneck; Agile Maturity
 Model: A new maturity model.
 #+begin_comment
 This unit in on agile project planning and developement  whereas anna university syllabus discuss on knowledge management
+References: Text book1 Chapters:7,9,11
 #+end_comment
 
 {{{unit}}}
@@ -83,6 +86,7 @@ Roles and practices -- Process mixtures -- Adoption strategies;
 Extreme Programming; Unified Process; EVO.
 #+begin_comment
 Agile Methods are discussed whereas anna university syllabus discuss on Requirement Engineering that is not in flow
+Reference:  Text Book 2 Chapters: 7,8,9,10
 #+end_comment
 
 {{{unit}}}
@@ -93,6 +97,7 @@ Financial and production metrics in FDD -- Agile approach to quality
 assurance -- Test driven development; SMM: A process improvement
 framework for agile requirements engineering practices.
 #+begin_comment
+references: text book 3,refernce book1,text book1,reference book 2
 Testing is added in addition to quality in anna university syllabus
   
 #+end_comment

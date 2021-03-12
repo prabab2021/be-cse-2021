@@ -1,7 +1,8 @@
 * <<<604>>> ARTIFICIAL INTELLIGENCE
 # PRINCIPLES OF ARTIFICIAL INTELLIGENCE
 :properties:
-:author: Dr. S. Sheerazuddin and Dr. S. Kavitha
+:author: Dr. T.T.Mirnalinee and Dr. S. Kavitha
+:date: 11-03-2021
 :end:
 
 #+startup: showall
@@ -11,6 +12,7 @@
 | 3 | 0 | 2 | 4 |
 
 #+begin_comment
+2018
 1. This course syllabus is substantially different from the current one in Anna University curriculum in unit IV and V.
 2. Unit IV, Uncertainty is given instaed of Software agents.Unit V, Introduction to Learning is given, instead of Applications.
 3. Not Applicable
@@ -18,15 +20,23 @@
 5. Lab Exercises are given for each unit.
 #+end_comment
 
+#+begin_comment
+2021
+1. Unit V - COMMUNICATIONG. PERCEIVING AND ACTING, is given instaed of Learning, since Machine Learning comes in the same semester.
+2. Five Course outcomes specified and aligned with units
+3. Lab Exercises are given for each unit.
+4. CO6 is included.
+#+end_comment
+
 ** COURSE OBJECTIVES
 - To Study the fundamental concepts of AI agents and environments.
 - To Learn the methods of problem solving in AI using various search strategies.
 - To Understand the concepts of knowledge representation and inference using logic.
 - To Understand the concepts of knowledge representation and inference under uncertainty.
-- To Learn the introductory concepts of machine learning in AI.
+- To Learn the some appliactions in text, image and robotics.
 
 {{{unit}}}
-| UNIT I | FOUNDATIONS | 8 |
+| UNIT I | FOUNDATIONS | 7 |
 Introduction: What is AI; Intelligent Agents: Agents and environments
 -- Good behavior -- The nature of environments -- Structure of agents;
 Philosophical Foundations: Weak AI -- Strong AI -- Ethics and risks of
@@ -43,7 +53,7 @@ search: Games -- Optimal decisions in games -- Alpha-beta pruning.
 
 
 {{{unit}}}
-| UNIT III | KNOWLEDGE REPRESENTATION & REASONING | 9 |
+| UNIT III | KNOWLEDGE REPRESENTATION & REASONING | 10 |
 Logical Agents: Knowledge-based agents -- Propositional logic --
 Propositional theorem proving; First order logic: Syntax and semantics
 for first order logic -- Using first order logic; Inference in first
@@ -59,10 +69,8 @@ its use; Probabilistic Reasoning: The semantics of Bayesian networks
 uncertain reasoning.
 
 {{{unit}}}
-| UNIT V | LEARNING | 9 |
-Learning from Examples: Forms of learning -- Supervised learning --
-Learning decision trees; Reinforcement learning: Passive reinforcement
-learning -- Active reinforcement learning -- Application to robot control.
+| UNIT V | COMMUNICATIONG. PERCEIVING AND ACTING | 9 |
+Natural Language Processing: Language Models -- InformationRetrieval; Perception: Image Formation -- Image-Processing Operations -- Object Recognition by Appearance; Robotics: Introduction -- Robotic Hardawre -- Perception -- Application Domains.
 
 \hfill *Theory Periods: 45*
 
@@ -84,15 +92,16 @@ learning -- Active reinforcement learning -- Application to robot control.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
+- Introduce the concept of AI and Agent (K2)
 - Identify, formulate, understand and solve AI problems using search
   techniques (K3)
 - Elucidate the concept of Knowledge Representation and inference
   using logics (K2)
 - Elucidate the concept of Knowledge Representation and inference
   under uncertainty (K2)
-- Elucidate the concept of learning in AI applications (K3)
 - Implement various search, inference and learning algorithms in AI
   (K4).
+  
 
 ** TEXT BOOKS
 1. Stuart Russell, Peter Norvig, ``Artificial Intelligence -- A Modern

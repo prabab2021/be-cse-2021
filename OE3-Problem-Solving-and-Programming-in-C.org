@@ -36,38 +36,28 @@ Almost same as that of R2017 syllabus, removed compilation process
 
 {{{unit}}}
 | UNIT II | FUNCTIONS | 6 |
-Function prototype -- Function definition and call -- Passing
-parameters -- Built-in functions -- Recursion.
+Function prototype -- Function definition and call -- Passing parameters -- Built-in functions -- Recursion.
+
 #+begin_comment
 Units reordered, learning functions
 #+end_comment
 
 {{{unit}}}
-| UNIT III | ARRAYS AND POINTERS | 6 |
-Arrays: Declaration, initialization -- One-dimensional arrays --
-Multi-dimensional arrays; Pointers: Pointer operators -- Pointer
-operations -- Array of pointers -- Passing arrays to functions.
-#+begin_comment
-Strings moved to next unit
-#+end_comment
+| UNIT III | ARRAYS AND STRINGS | 6 |
+Arrays: Declaration, initialization -- One-dimensional arrays -- Multi-dimensional arrays; Strings: Constants and variables, reading and writing strings, string
+operations, string library; Command line arguments.
 
 {{{unit}}}
-| UNIT IV | STRINGS, STRUCTURES AND UNIONS | 6 |
-Strings: Constants and variables, reading and writing strings, string
-operations, string library; Command line arguments; Structures:
-Structures and functions -- Array of structures -- Pointer to a
-structure – unions; Dynamic memory allocation.
+| UNIT IV | POINTERS, STRUCTURES AND UNIONS | 6 |
+Pointers: Pointer operations -- Array of pointers -- Passing arrays to functions; Structures: Structures and functions -- Array of structures -- Pointer to a structure – unions; Dynamic memory allocation.
+
 #+begin_comment
 Unions added
 #+end_comment
 {{{unit}}}
 | UNIT V | FILES | 6 |
-Files: opening and closing a data file -- Creating a data file --
-Processing a data file -- Unformatted data files -- Formatted input
-and output -- Line input and output -- File error handling.
-#+begin_comment
-Same as that of R2017 fifth unit
-#+end_comment
+Files: opening and closing a data file -- Creating a data file -- Processing a data file -- Unformatted data files -- Formatted input and output -- Line input and output -- File error handling.
+
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
@@ -76,7 +66,7 @@ Same as that of R2017 fifth unit
  - Program functions with different parameter passing techniques: Call
    by value, call by reference (e.g. changing the elements of an
    array)
- - Program one dimensional arrays (e.g. Insertion sort)
+ - Programs using one dimensional arrays (e.g. Insertion sort)
  - Program using strings and their operations (e.g. concatenation of
    strings, extracting a substring, checking for palindrome)
  - Program to demonstrate simple structure manipulations
@@ -90,10 +80,10 @@ Same as that of R2017 fifth unit
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand the basic programming constructs in C (K2) 
-- Illustrate functions in C (K2) 
-- Develop C programs using arrays and pointers (K3)
-- Solve problems using strings and structures (K3) 
+- Illustrate the basic programming constructs in C (K2) 
+- Develop modular programs using functions (K3) 
+- Develop applications using arrays and strings (K3)
+- Solve problems using pointers and structures (K3) 
 - Explain file operations using programs in C (K2).
 
       
