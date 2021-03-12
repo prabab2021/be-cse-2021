@@ -15,9 +15,9 @@
 #+begin_comment
 - 1. Removed unit 5 (security)
 - 2. included simulation
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable (suggestive experiments)
+- 3. included topology control
+- 4. 
+- 5. 
 #+end_comment
 
 #+startup: showall
@@ -90,12 +90,26 @@ processing -- Operating systems for wireless sensor networks --
 Examples.
 
 {{{unit}}}
+|UNIT IV | WSN:  Topology Control  and Routing Protocols  | 9 |
+Topology Control: Controllingtopology in flat networks --Hierarchical networks by domination sets and clustering -- Combine hierarchical topologies and power control.
+
+Routing Protocols: Unicast -- Broadcast -- Multicast -- Geographical routing -- Mobile nodes.
+
+
+{{{unit}}}
 |UNIT V | SECURITY IN ADHOC AND SENSOR NETWORKS | 9 |
 Security Attacks -- Key Distribution and Management -- Intrusion
 Detection -- Software based Anti-tamper techniques -- Water marking
 techniques -- Defense against routing attacks -- Secure Ad hoc routing
 protocols -- Broadcast authentication WSN protocols -- TESLA -- Biba
 -- Sensor Network Security Protocols -- SPINS.
+
+{{{unit}}}
+|UNIT V | WSN: Data centric and Content based networking, Transport layer and QOS | 9 |
+Data-Centric and Contention-Based Networking: Transport Layer and
+QoS in Wireless Sensor Networks -- Congestion Control in network
+processing -- Operating systems for wireless sensor networks --
+Examples.
 
 \hfill *Total Periods: 45*
 
