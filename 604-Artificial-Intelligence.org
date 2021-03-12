@@ -70,7 +70,7 @@ uncertain reasoning.
 
 {{{unit}}}
 | UNIT V | COMMUNICATIONG. PERCEIVING AND ACTING | 9 |
-Natural Language Processing: Language Models -- InformationRetrieval; Perception: Image Formation -- Image-Processing Operations -- Object Recognition by Appearance; Robotics: Introduction -- Robotic Hardawre -- Perception -- Application Domains.
+Natural Language Processing: Language Models -- Information Retrieval; Perception: Image Formation -- Image-Processing Operations -- Object Recognition; Robotics: Introduction -- Robotic Hardawre -- Perception -- Application Domains.
 
 \hfill *Theory Periods: 45*
 
@@ -83,8 +83,7 @@ Natural Language Processing: Language Models -- InformationRetrieval; Perception
 6. Inference from knowldge base
 7. Inference using full joint probability distribution
 8. Inference using Bayesian network
-9. Decision tree learning algorithm
-10. Passive reinforcment learning algorithm
+9. One Application using AI algorithm
 
 \hfill *Practical Periods: 30*
 
@@ -92,15 +91,12 @@ Natural Language Processing: Language Models -- InformationRetrieval; Perception
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Introduce the concept of AI and Agent (K2)
-- Identify, formulate, understand and solve AI problems using search
-  techniques (K3)
-- Elucidate the concept of Knowledge Representation and inference
-  using logics (K2)
-- Elucidate the concept of Knowledge Representation and inference
-  under uncertainty (K2)
-- Implement various search, inference and learning algorithms in AI
-  (K4).
+- Explain the concept of AI and Agent (K2)
+- Identify, formulate, understand and solve AI problems using search techniques (K3)
+- Solve the AI problems using the concept of Knowledge Representation and inferences in logics (K3)
+- Apply Probabilistic reasoning to solve uncertainty problems (K3)
+- Illustrate different application domains of (K2)
+- Implement various search, inference and learning algorithms in AI (K4).
   
 
 ** TEXT BOOKS

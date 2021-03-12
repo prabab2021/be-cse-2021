@@ -1,15 +1,15 @@
 * <<<PE207>>> WIRELESS AD HOC AND SENSOR NETWORKS 
 :properties:
-:author: Ms. S. V. Jansi Rani and Dr. V. S. Felix Enigo
+:author: Dr. S. V. Jansi Rani and Dr. V. S. Felix Enigo
 :date: 10-03-2021
 :end:
 
 #+begin_comment
-- 1. Same as AU 2017
-- 2. No change
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable (suggestive experiments)
+- 1. Removed unit 5 (security)
+- 2. included simulation
+- 3. included topology control
+- 4. 
+- 5. 
 #+end_comment
 
 #+startup: showall
@@ -57,30 +57,26 @@ Routing Protocols.
 TCP's challenges and Design Issues in Ad Hoc Networks -- Transport
 protocols for ad hoc networks -- Issues and Challenges in providing
 QoS -- MAC Layer QoS solutions -- Network Layer QoS solutions -- QoS
-Model.
+Model - Simiulation of TCP protocol in Ad hoc networks.
 
 {{{unit}}}
-|UNIT III | MAC AND ROUTING IN WIRELESS SENSOR NETWORKS | 9 |
-Introduction -- Applications -- Challenges -- Sensor network
-architecture -- MAC Protocols for wireless sensor networks -- Low duty
-cycle protocols and wakeup concepts -- Contention Based protocols --
-Schedule-Based protocols -- IEEE 802.15.4 Zigbee -- Topology Control
--- Routing Protocols.
+|UNIT III | WSN:  Protocols for MAC and Localization  | 9 |
+Fundamentals of MAC Protocols:  Types of MAC Protocols -- Low duty cycle protocols -- Contention-based protocols -- Schedule-based protocols ;  IEEE 802.15.4 MAC protocol  - Simulation of MAC Protocol.
+
+Localization and Positioning:  Properties -- Approaches --Mathematical basis;  Single Hop Localization -- Positioning in multichip environments  -- Impact of anchor placement.
+
 
 {{{unit}}}
-|UNIT IV | TRANSPORT AND QOS IN WIRELESS SENSOR NETWORKS | 9 |
-Data-Centric and Contention-Based Networking -- Transport Layer and
-QoS in Wireless Sensor Networks -- Congestion Control in network
-processing -- Operating systems for wireless sensor networks --
-Examples.
+|UNIT IV | WSN:  Topology Control  and Routing Protocols  | 9 |
+Topology Control: Controllingtopology in flat networks --Hierarchical networks by domination sets and clustering -- Combine hierarchical topologies and power control.
+
+Routing Protocols: Unicast -- Broadcast -- Multicast -- Geographical routing -- Mobile nodes -Simiulation of routing protocol in WSN.
 
 {{{unit}}}
-|UNIT V | SECURITY IN ADHOC AND SENSOR NETWORKS | 9 |
-Security Attacks -- Key Distribution and Management -- Intrusion
-Detection -- Software based Anti-tamper techniques -- Water marking
-techniques -- Defense against routing attacks -- Secure Ad hoc routing
-protocols -- Broadcast authentication WSN protocols -- TESLA -- Biba
--- Sensor Network Security Protocols -- SPINS.
+|UNIT V | WSN: Data centric and Content based networking, Transport layer and QOS | 9 |
+Data-Centric and Contention-Based Networking:  Data-centric routing -- Data aggregation -- Data-centric storage.
+
+Transport Layer and Quality of Service: Coverage and deployment -- Reliaable data transport -- Single packet delivery -- Block delivery -- Congestion Control and rate control -- Operating systems for wireless sensor networks -- Examples.
 
 \hfill *Total Periods: 45*
 
@@ -114,3 +110,5 @@ After the completion of this course, students will be able to:
    Sons, 2010.
 4. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and
    Applications'', Cambridge university Press, 2008.
+5. http://vlabs.iitkgp.ac.in/ant/8/
+6. http://vlabs.iitkgp.ac.in/ant/7/theory/
