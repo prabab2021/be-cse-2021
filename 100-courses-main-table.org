@@ -17,118 +17,118 @@
 | \Large *R2021 CURRICULUM*  |
 
 #+name: curriculum
-|    |      |                                                                    |     |     |    |   |    |     |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-| No | Code | Title                                                              | Cat | Hrs |  L | T |  P |   C |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | *Semester I*                                                       |     |     |    |   |    |     |
-|    |      | /Theory/                                                           |     |     |    |   |    |     |
-|  1 |      | Technical English                                                  | HS  |   4 |  2 | 0 |  2 |   3 |
-|  2 |      | Algebra and Calculus                                               | BS  |   4 |  3 | 1 |  0 |   4 |
-|  3 |      | Engineering Physics                                                | BS  |   3 |  3 | 0 |  0 |   3 |
-|  4 |      | Engineering Chemistry                                              | BS  |   3 |  3 | 0 |  0 |   3 |
-|  5 |      | Problem Solving and Programming in Python                          | ES  |   3 |  3 | 0 |  0 |   3 |
-|  6 |      | Engineering Graphics                                               | ES  |   5 |  1 | 0 |  4 |   3 |
-|    |      | /Practical/                                                        |     |     |    |   |    |     |
-|  7 |      | Physics and Chemistry Lab                                          | BS  |   3 |  0 | 0 |  3 | 1.5 |
-|  8 |      | Programming in Python Lab                                          | ES  |   3 |  0 | 0 |  3 | 1.5 |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | /Total/                                                            |     |  28 | 15 | 1 | 12 | 22. |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | *Semester II*                                                      |     |     |    |   |    |     |
-|    |      | /Theory/                                                           |     |     |    |   |    |     |
-|  1 |      | Complex Functions and Laplace Transforms                           | BS  |   4 |  3 | 1 |  0 |   4 |
-|  2 |      | Basic Electrical and Electronics Engineering                       | ES  |   3 |  3 | 0 |  0 |   3 |
-|  3 |      | Engineering Fundamentals and Practices                             | ES  |   6 |  3 | 0 |  3 | 4.5 |
-|  4 |      | Environmental Science                                              | BS  |   3 |  3 | 0 |  0 |   0 |
-|  5 |      | Humanities Elective I                                              | HS  |   3 |  3 | 0 |  0 |   3 |
-|  6 |      | Foundations of Data Science                                        | ES  |   3 |  3 | 0 |  0 |   3 |
-|    |      | /Practical/                                                        |     |     |    |   |    |     |
-|  7 |      | Design Thinking and Engineering Practices Lab                      | ES  |   3 |  0 | 0 |  3 | 1.5 |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | /Total/                                                            |     |  25 | 18 | 1 |  6 | 19. |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | *Semester III*                                                     |     |     |    |   |    |     |
-|    |      | /Theory/                                                           |     |     |    |   |    |     |
-|  1 |      | Discrete Mathematics                                               | BS  |   4 |  3 | 1 |  0 |   4 |
-|  2 |      | Universal Human Values II                                          | HS  |   3 |  3 | 0 |  0 |   3 |
-|  3 |      | Digital Principles and System Design                               | ES  |   3 |  3 | 0 |  0 |   3 |
-|  4 |      | Data Structures                                                    | PC  |   3 |  3 | 0 |  0 |   3 |
-|  5 |      | Object Oriented Programming                                        | PC  |   3 |  3 | 0 |  0 |   3 |
-|    |      | /Practical/                                                        |     |     |    |   |    |     |
-|  6 |      | Digital Design Lab                                                 | ES  |   3 |  0 | 0 |  3 | 1.5 |
-|  7 |      | Data Structures Lab                                                | PC  |   4 |  0 | 0 |  4 |   2 |
-|  8 |      | Object Oriented Programming Lab                                    | PC  |   3 |  0 | 0 |  3 | 1.5 |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | /Total/                                                            |     |  26 | 15 | 1 | 10 | 21. |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | *Semester IV*                                                      |     |     |    |   |    |     |
-|    |      | /Theory/                                                           |     |     |    |   |    |     |
-|  1 |      | Probability and Statistics                                         | BS  |   4 |  3 | 1 |  0 |   4 |
-|  2 |      | Essence of Indian Traditional Knowledge / Indian Constitution (MC) | HS  |   3 |  3 | 0 |  0 |   0 |
-|  3 |      | Computer Organization and Architecture                             | PC  |   3 |  3 | 0 |  0 |   3 |
-|  4 |      | Operating Systems                                                  | PC  |   3 |  3 | 0 |  0 |   3 |
-|  5 |      | Design and Analysis of Algorithms                                  | PC  |   5 |  3 | 0 |  2 |   4 |
-|  6 |      | Database Management Systems (EFP)                                  | PC  |   3 |  3 | 0 |  0 |   3 |
-|    |      | /Practical/                                                        |     |     |    |   |    |     |
-|  7 |      | Operating Systems Lab                                              | PC  |   3 |  0 | 0 |  3 | 1.5 |
-|  8 |      | Database Lab (EFP)                                                 | PC  |   3 |  0 | 0 |  3 | 1.5 |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | /Total/                                                            |     |  27 | 18 | 1 |  8 | 20. |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | *Semester V*                                                       |     |     |    |   |    |     |
-|    |      | /Theory/                                                           |     |     |    |   |    |     |
-|  1 |      | Computer Networks                                                  | PC  |   3 |  3 | 0 |  0 |   3 |
-|  2 |      | Microprocessors and Interfacing                                    | PC  |   3 |  3 | 0 |  0 |   3 |
-|  3 |      | Theory of Computation                                              | PC  |   3 |  3 | 0 |  0 |   3 |
-|  4 |      | Software Engineering                                               | PC  |   3 |  3 | 0 |  0 |   3 |
-|  5 |      | Professional Elective 1                                            | PE  |   3 |  3 | 0 |  0 |   3 |
-|  6 |      | Management Elective                                                | HS  |   3 |  3 | 0 |  0 |   3 |
-|    |      | /Practical/                                                        |     |     |    |   |    |     |
-|  7 |      | Networks Lab                                                       | PC  |   3 |  0 | 0 |  3 | 1.5 |
-|  8 |      | Microprocessors Lab                                                | PC  |   3 |  0 | 0 |  3 | 1.5 |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | /Total/                                                            |     |  24 | 18 | 0 |  6 | 21. |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | *Semester VI*                                                      |     |     |    |   |    |     |
-|    |      | /Theory/                                                           |     |     |    |   |    |     |
-|  1 |      | Internet Programming                                               | PC  |   3 |  3 | 0 |  0 |   3 |
-|  2 |      | Data Security and Privacy                                          | PC  |   3 |  3 | 0 |  0 |   3 |
-|  3 |      | Machine Learning (EFP)                                             | PC  |   3 |  3 | 0 |  0 |   3 |
-|  4 |      | Artificial Intelligence                                            | PC  |   5 |  3 | 0 |  2 |   4 |
-|  5 |      | Professional Elective 2                                            | PE  |   3 |  3 | 0 |  0 |   3 |
-|  6 |      | Open Elective 1                                                    | OE  |   3 |  3 | 0 |  0 |   3 |
-|    |      | /Practical/                                                        |     |     |    |   |    |     |
-|  7 |      | Internet Programming Lab                                           | PC  |   3 |  0 | 0 |  3 | 1.5 |
-|  8 |      | Machine Learning Lab (EFP)                                         | PC  |   3 |  0 | 0 |  3 | 1.5 |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | /Total/                                                            |     |  26 | 18 | 0 |  8 | 22. |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | *Semester VII*                                                     |     |     |    |   |    |     |
-|    |      | /Theory/                                                           |     |     |    |   |    |     |
-|  1 |      | Distributed Systems                                                | PC  |   3 |  3 | 0 |  0 |   3 |
-|  2 |      | Software Architecture                                              | PC  |   3 |  3 | 0 |  0 |   3 |
-|  3 |      | Compiler Design                                                    | PC  |   5 |  3 | 0 |  2 |   4 |
-|  4 |      | Professional Elective 3                                            | PE  |   3 |  3 | 0 |  0 |   3 |
-|  5 |      | Professional Elective 4                                            | PE  |   3 |  3 | 0 |  0 |   3 |
-|  6 |      | Professional Elective 5                                            | PE  |   3 |  3 | 0 |  0 |   3 |
-|    |      | /Practical/                                                        |     |     |    |   |    |     |
-|  7 |      | Project Work Phase 1                                               | EEC |   6 |  0 | 0 |  6 |   3 |
-|  8 |      | Industrial Training / Internship                                   | EEC |   0 |  0 | 0 |  0 |   2 |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | /Total/                                                            |     |  26 | 18 | 0 |  8 |  24 |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | *Semester VIII*                                                    |     |     |    |   |    |     |
-|    |      | /Theory/                                                           |     |     |    |   |    |     |
-|  1 |      | Professional Elective 6                                            | PE  |   3 |  3 | 0 |  0 |   3 |
-|  2 |      | Open Elective 2                                                    | OE  |   3 |  3 | 0 |  0 |   3 |
-|    |      | /Practical/                                                        |     |     |    |   |    |     |
-|  3 |      | Project Work Phase 2                                               | EEC |  16 |  0 | 0 | 16 |   8 |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | Total                                                              |     |  22 |  6 | 0 | 16 |  14 |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
-|    |      | *Grand Total*                                                      |     |     |    |   |    | 163 |
-|----+------+--------------------------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      |                                                |     |     |    |   |    |     |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+| No | Code | Title                                          | Cat | Hrs |  L | T |  P |   C |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester I*                                   |     |     |    |   |    |     |
+|    |      | /Theory/                                       |     |     |    |   |    |     |
+|  1 |      | Technical English                              | HS  |   4 |  2 | 0 |  2 |   3 |
+|  2 |      | Algebra and Calculus                           | BS  |   4 |  3 | 1 |  0 |   4 |
+|  3 |      | Engineering Physics                            | BS  |   3 |  3 | 0 |  0 |   3 |
+|  4 |      | Engineering Chemistry                          | BS  |   3 |  3 | 0 |  0 |   3 |
+|  5 |      | Problem Solving and Programming in Python      | ES  |   3 |  3 | 0 |  0 |   3 |
+|  6 |      | Engineering Graphics                           | ES  |   5 |  1 | 0 |  4 |   3 |
+|    |      | /Practical/                                    |     |     |    |   |    |     |
+|  7 |      | Physics and Chemistry Lab                      | BS  |   3 |  0 | 0 |  3 | 1.5 |
+|  8 |      | Programming in Python Lab                      | ES  |   3 |  0 | 0 |  3 | 1.5 |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                        |     |  28 | 15 | 1 | 12 | 22. |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester II*                                  |     |     |    |   |    |     |
+|    |      | /Theory/                                       |     |     |    |   |    |     |
+|  1 |      | Complex Functions and Laplace Transforms       | BS  |   4 |  3 | 1 |  0 |   4 |
+|  2 |      | Basic Electrical and Electronics Engineering   | ES  |   3 |  3 | 0 |  0 |   3 |
+|  3 |      | Engineering Fundamentals and Practices         | ES  |   6 |  3 | 0 |  3 | 4.5 |
+|  4 |      | Environmental Science                          | BS  |   3 |  3 | 0 |  0 |   0 |
+|  5 |      | Humanities Elective I                          | HS  |   3 |  3 | 0 |  0 |   3 |
+|  6 |      | Foundations of Data Science                    | ES  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                                    |     |     |    |   |    |     |
+|  7 |      | Design Thinking and Engineering Practices Lab  | ES  |   3 |  0 | 0 |  3 | 1.5 |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                        |     |  25 | 18 | 1 |  6 | 19. |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester III*                                 |     |     |    |   |    |     |
+|    |      | /Theory/                                       |     |     |    |   |    |     |
+|  1 |      | Discrete Mathematics                           | BS  |   4 |  3 | 1 |  0 |   4 |
+|  2 |      | Universal Human Values II                      | HS  |   3 |  3 | 0 |  0 |   3 |
+|  3 |      | Digital Principles and System Design           | ES  |   3 |  3 | 0 |  0 |   3 |
+|  4 |      | Data Structures                                | PC  |   3 |  3 | 0 |  0 |   3 |
+|  5 |      | Object Oriented Programming                    | PC  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                                    |     |     |    |   |    |     |
+|  6 |      | Digital Design Lab                             | ES  |   3 |  0 | 0 |  3 | 1.5 |
+|  7 |      | Data Structures Lab                            | PC  |   4 |  0 | 0 |  4 |   2 |
+|  8 |      | Object Oriented Programming Lab                | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                        |     |  26 | 15 | 1 | 10 | 21. |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester IV*                                  |     |     |    |   |    |     |
+|    |      | /Theory/                                       |     |     |    |   |    |     |
+|  1 |      | Probability and Statistics                     | BS  |   4 |  3 | 1 |  0 |   4 |
+|  2 |      | Essence of Ind Trad Knowledge/Ind Constitution | HS  |   3 |  3 | 0 |  0 |   0 |
+|  3 |      | Computer Organization and Architecture         | PC  |   3 |  3 | 0 |  0 |   3 |
+|  4 |      | Operating Systems                              | PC  |   3 |  3 | 0 |  0 |   3 |
+|  5 |      | Design and Analysis of Algorithms              | PC  |   5 |  3 | 0 |  2 |   4 |
+|  6 |      | Database Management Systems (EFP)              | PC  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                                    |     |     |    |   |    |     |
+|  7 |      | Operating Systems Lab                          | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|  8 |      | Database Lab (EFP)                             | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                        |     |  27 | 18 | 1 |  8 | 20. |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester V*                                   |     |     |    |   |    |     |
+|    |      | /Theory/                                       |     |     |    |   |    |     |
+|  1 |      | Computer Networks                              | PC  |   3 |  3 | 0 |  0 |   3 |
+|  2 |      | Microprocessors and Interfacing                | PC  |   3 |  3 | 0 |  0 |   3 |
+|  3 |      | Theory of Computation                          | PC  |   3 |  3 | 0 |  0 |   3 |
+|  4 |      | Software Engineering                           | PC  |   3 |  3 | 0 |  0 |   3 |
+|  5 |      | Professional Elective 1                        | PE  |   3 |  3 | 0 |  0 |   3 |
+|  6 |      | Management Elective                            | HS  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                                    |     |     |    |   |    |     |
+|  7 |      | Networks Lab                                   | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|  8 |      | Microprocessors Lab                            | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                        |     |  24 | 18 | 0 |  6 | 21. |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester VI*                                  |     |     |    |   |    |     |
+|    |      | /Theory/                                       |     |     |    |   |    |     |
+|  1 |      | Internet Programming                           | PC  |   3 |  3 | 0 |  0 |   3 |
+|  2 |      | Data Security and Privacy                      | PC  |   3 |  3 | 0 |  0 |   3 |
+|  3 |      | Machine Learning (EFP)                         | PC  |   3 |  3 | 0 |  0 |   3 |
+|  4 |      | Artificial Intelligence                        | PC  |   5 |  3 | 0 |  2 |   4 |
+|  5 |      | Professional Elective 2                        | PE  |   3 |  3 | 0 |  0 |   3 |
+|  6 |      | Open Elective 1                                | OE  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                                    |     |     |    |   |    |     |
+|  7 |      | Internet Programming Lab                       | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|  8 |      | Machine Learning Lab (EFP)                     | PC  |   3 |  0 | 0 |  3 | 1.5 |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                        |     |  26 | 18 | 0 |  8 | 22. |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester VII*                                 |     |     |    |   |    |     |
+|    |      | /Theory/                                       |     |     |    |   |    |     |
+|  1 |      | Distributed Systems                            | PC  |   3 |  3 | 0 |  0 |   3 |
+|  2 |      | Software Architecture                          | PC  |   3 |  3 | 0 |  0 |   3 |
+|  3 |      | Compiler Design                                | PC  |   5 |  3 | 0 |  2 |   4 |
+|  4 |      | Professional Elective 3                        | PE  |   3 |  3 | 0 |  0 |   3 |
+|  5 |      | Professional Elective 4                        | PE  |   3 |  3 | 0 |  0 |   3 |
+|  6 |      | Professional Elective 5                        | PE  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                                    |     |     |    |   |    |     |
+|  7 |      | Project Work Phase 1                           | EEC |   6 |  0 | 0 |  6 |   3 |
+|  8 |      | Industrial Training / Internship               | EEC |   0 |  0 | 0 |  0 |   2 |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | /Total/                                        |     |  26 | 18 | 0 |  8 |  24 |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Semester VIII*                                |     |     |    |   |    |     |
+|    |      | /Theory/                                       |     |     |    |   |    |     |
+|  1 |      | Professional Elective 6                        | PE  |   3 |  3 | 0 |  0 |   3 |
+|  2 |      | Open Elective 2                                | OE  |   3 |  3 | 0 |  0 |   3 |
+|    |      | /Practical/                                    |     |     |    |   |    |     |
+|  3 |      | Project Work Phase 2                           | EEC |  16 |  0 | 0 | 16 |   8 |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | Total                                          |     |  22 |  6 | 0 | 16 |  14 |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
+|    |      | *Grand Total*                                  |     |     |    |   |    | 163 |
+|----+------+------------------------------------------------+-----+-----+----+---+----+-----|
 #+TBLFM: @14$5..@14$>=vsum(@-II+3..@-4)+vsum(@-2..@-1)
 #+TBLFM: @25$5..@25$>=vsum(@-II+3..@-3)+vsum(@-1..@-1)
 #+TBLFM: @37$5..@37$>=vsum(@-II+3..@-5)+vsum(@-3..@-1)
