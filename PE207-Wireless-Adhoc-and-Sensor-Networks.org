@@ -12,6 +12,14 @@
 - 5. Not Applicable (suggestive experiments)
 #+end_comment
 
+#+begin_comment
+- 1. Removed unit 5 (security)
+- 2. included simulation
+- 3. Not Applicable
+- 4. Five Course outcomes specified and aligned with units
+- 5. Not Applicable (suggestive experiments)
+#+end_comment
+
 #+startup: showall
 
 ** CO PO MAPPING :noexport:
@@ -68,6 +76,13 @@ Schedule-Based protocols -- IEEE 802.15.4 Zigbee -- Topology Control
 -- Routing Protocols.
 
 {{{unit}}}
+|UNIT III | WSN:  Protocols for MAC and Localization  | 9 |
+Fundamentals of MAC Protocols:  Types of MAC Protocols -- Low duty cycle protocols -- Contention-based protocols -- Schedule-based protocols ;  IEEE 802.15.4 MAC protocol  - Simulation of MAC Protocol.
+
+Localization and Positioning:  Properties -- Approaches --Mathematical basis;  Single Hop Localization -- Positioning in multichip environments  -- Impact of anchor placement.
+
+
+{{{unit}}}
 |UNIT IV | TRANSPORT AND QOS IN WIRELESS SENSOR NETWORKS | 9 |
 Data-Centric and Contention-Based Networking -- Transport Layer and
 QoS in Wireless Sensor Networks -- Congestion Control in network
@@ -114,3 +129,5 @@ After the completion of this course, students will be able to:
    Sons, 2010.
 4. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and
    Applications'', Cambridge university Press, 2008.
+5. http://vlabs.iitkgp.ac.in/ant/8/
+6. http://vlabs.iitkgp.ac.in/ant/7/theory/
