@@ -96,8 +96,7 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS
 1. Anany Levitin, ``Introduction to the Design and Analysis of
    Algorithms'', 3rd Edition, Pearson Education, 2012.
-2. S Dasgupta, C H Papadimitriou, U V Vazirani,
-   ``Algorithms'',1st Edition,  McGraw Hill Education, 2017.
+
 
 ** REFERENCES
 1. Thomas H Cormen, Charles E Leiserson, Ronald L Rivest, Clifford
@@ -105,4 +104,6 @@ After the completion of this course, students will be able to:
    Private Limited, 2012.
 2. Steven S Skiena, ``The Algorithm Design Manual'', 2nd Edition,
    Springer, 2008.
+3. S Dasgupta, C H Papadimitriou, U V Vazirani,
+   ``Algorithms'',1st Edition,  McGraw Hill Education, 2017.
 
