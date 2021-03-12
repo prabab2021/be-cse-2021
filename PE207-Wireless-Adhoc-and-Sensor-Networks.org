@@ -1,16 +1,8 @@
 * <<<PE207>>> WIRELESS AD HOC AND SENSOR NETWORKS 
 :properties:
-:author: Ms. S. V. Jansi Rani and Dr. V. S. Felix Enigo
+:author: Dr. S. V. Jansi Rani and Dr. V. S. Felix Enigo
 :date: 10-03-2021
 :end:
-
-#+begin_comment
-- 1. Same as AU 2017
-- 2. No change
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable (suggestive experiments)
-#+end_comment
 
 #+begin_comment
 - 1. Removed unit 5 (security)
@@ -65,15 +57,7 @@ Routing Protocols.
 TCP's challenges and Design Issues in Ad Hoc Networks -- Transport
 protocols for ad hoc networks -- Issues and Challenges in providing
 QoS -- MAC Layer QoS solutions -- Network Layer QoS solutions -- QoS
-Model.
-
-{{{unit}}}
-|UNIT III | MAC AND ROUTING IN WIRELESS SENSOR NETWORKS | 9 |
-Introduction -- Applications -- Challenges -- Sensor network
-architecture -- MAC Protocols for wireless sensor networks -- Low duty
-cycle protocols and wakeup concepts -- Contention Based protocols --
-Schedule-Based protocols -- IEEE 802.15.4 Zigbee -- Topology Control
--- Routing Protocols.
+Model - Simiulation of TCP protocol in Ad hoc networks.
 
 {{{unit}}}
 |UNIT III | WSN:  Protocols for MAC and Localization  | 9 |
@@ -83,26 +67,10 @@ Localization and Positioning:  Properties -- Approaches --Mathematical basis;  S
 
 
 {{{unit}}}
-|UNIT IV | TRANSPORT AND QOS IN WIRELESS SENSOR NETWORKS | 9 |
-Data-Centric and Contention-Based Networking -- Transport Layer and
-QoS in Wireless Sensor Networks -- Congestion Control in network
-processing -- Operating systems for wireless sensor networks --
-Examples.
-
-{{{unit}}}
 |UNIT IV | WSN:  Topology Control  and Routing Protocols  | 9 |
 Topology Control: Controllingtopology in flat networks --Hierarchical networks by domination sets and clustering -- Combine hierarchical topologies and power control.
 
-Routing Protocols: Unicast -- Broadcast -- Multicast -- Geographical routing -- Mobile nodes.
-
-
-{{{unit}}}
-|UNIT V | SECURITY IN ADHOC AND SENSOR NETWORKS | 9 |
-Security Attacks -- Key Distribution and Management -- Intrusion
-Detection -- Software based Anti-tamper techniques -- Water marking
-techniques -- Defense against routing attacks -- Secure Ad hoc routing
-protocols -- Broadcast authentication WSN protocols -- TESLA -- Biba
--- Sensor Network Security Protocols -- SPINS.
+Routing Protocols: Unicast -- Broadcast -- Multicast -- Geographical routing -- Mobile nodes -Simiulation of routing protocol in WSN.
 
 {{{unit}}}
 |UNIT V | WSN: Data centric and Content based networking, Transport layer and QOS | 9 |
