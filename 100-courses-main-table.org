@@ -151,9 +151,9 @@
 |  2 | PE102 | Software Testing                          | PE  |   3 | 3 | 0 | 0 | 3 |
 |  3 | PE103 | Image Processing and Analysis             | PE  |   3 | 3 | 0 | 0 | 3 |
 |  4 | PE104 | Statistical Inference                     | PE  |   3 | 3 | 0 | 0 | 3 |
-|  5 | PE105 | Introduction to Cryptographic Techniques  | PE  |   3 | 3 | 0 | 0 | 3 |
+|  5 | PE105 | Cryptographic Techniques                  | PE  |   3 | 3 | 0 | 0 | 3 |
 |  6 | PE106 | Ethical Hacking                           | PE  |   3 | 3 | 0 | 0 | 3 |
-|  7 | PE107 | Functional Programming                    | PE  |   3 | 3 | 0 | 0 | 3 |
+|  7 | PE107 | Advanced Database Management Systems      | PE  |   3 | 3 | 0 | 0 | 3 |
 |----+-------+-------------------------------------------+-----+-----+---+---+---+---|
 |    |       | *Professional Elective 2*                 |     |     |   |   |   |   |
 |  1 | PE201 | Cloud Computing                           | PE  |   3 | 3 | 0 | 0 | 3 |
