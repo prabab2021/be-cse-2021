@@ -86,12 +86,13 @@ problem -- Knapsack problem.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develop algorithms for various computing problems (K3)
-- Analyze the time and space complexity of algorithms (K4)
-- Compare the different algorithm design techniques for a given problem (K4)
-- Identify suitable algorithm design technique for solving computational problems (K4)
+- Develop the analysis Asymptotic framework for various computing problems (K3)
+- Analyze the time and space complexity of Divide and Conquer algorithm strategy and compare with naïve approach (K4)
+- Distinguish the importance of Dynamic Programming and Greedy Technique (K4)
+- Identify suitable algorithm design technique for optimization problems (K4)
 - Understand the limitations of algorithmic power (K2).
-- Develop the important algorithms with appropriate data structures (K6)
+- Design and implement important algorithms with appropriate data structures (K6)
+
 
 ** TEXT BOOKS
 1. Anany Levitin, ``Introduction to the Design and Analysis of
