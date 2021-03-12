@@ -106,10 +106,9 @@ protocols -- Broadcast authentication WSN protocols -- TESLA -- Biba
 
 {{{unit}}}
 |UNIT V | WSN: Data centric and Content based networking, Transport layer and QOS | 9 |
-Data-Centric and Contention-Based Networking: Transport Layer and
-QoS in Wireless Sensor Networks -- Congestion Control in network
-processing -- Operating systems for wireless sensor networks --
-Examples.
+Data-Centric and Contention-Based Networking:  Data-centric routing -- Data aggregation -- Data-centric storage.
+
+Transport Layer and Quality of Service: Coverage and deployment -- Reliaable data transport -- Single packet delivery -- Block delivery -- Congestion Control and rate control -- Operating systems for wireless sensor networks -- Examples.
 
 \hfill *Total Periods: 45*
 
