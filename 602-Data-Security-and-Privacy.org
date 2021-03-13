@@ -37,9 +37,7 @@ course content.
          
 | UNIT I | OVERVIEW OF SECURITY AND  ENCRYPTION TECHNIQUES | 11 |
 
-Overview: Computer Security Concepts -- Threats, Attacks, and Assets -- Security Functional Requirements -- Fundamental Security Design Principles -- Attack Surfaces and Attack Trees -- Computer Security Strategy;
-Symmetric Encryption and Message Confidentiality: Symmetric Encryption Principles --  Data Encryption Standard --  Advanced Encryption Standard --  Stream Ciphers and RC4 --  Cipher Block Modes of Operation --  Key Distribution;
-Public-Key Cryptography and Message Authentication: Secure Hash Functions -- HMAC --  RSA -- Diffie-Hellman and Other Asymmetric Algorithms;
+Overview: Computer Security Concepts -- Threats, Attacks, and Assets -- Security Functional Requirements -- Fundamental Security Design Principles -- Attack Surfaces and Attack Trees -- Computer Security Strategy; Symmetric Encryption and Message Confidentiality: Symmetric Encryption Principles --  Data Encryption Standard --  Advanced Encryption Standard --  Stream Ciphers and RC4 --  Cipher Block Modes of Operation --  Key Distribution; Public-Key Cryptography and Message Authentication: Secure Hash Functions -- HMAC --  RSA -- Diffie-Hellman and Other Asymmetric Algorithms;
  
  {{{unit}}}
       
