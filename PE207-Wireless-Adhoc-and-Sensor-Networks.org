@@ -86,7 +86,7 @@ Transport Layer and Quality of Service: Coverage and deployment -- Reliaable dat
 - Select the various Transport layer protocols considering the QOS in ad hoc networks(K3)
 - Make use of the working of topology control and routing protocols in WSN (K3)
 - Choose the MAC protocol based on the type of localisation in WSN (K3)
-- Choose appropriate networking approach and use transport layer protocol considering the QOS   in WSN (K3)
+- Choose appropriate networking approach and use transport layer protocol considering the QOS in WSN (K3)
 - Apply the various protocols of wireless networks using simulator (K3)
 
 ** TEXT BOOKS 
