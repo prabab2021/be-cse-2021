@@ -92,7 +92,7 @@ SSL and TLS.
 Upon the completion of the course the students should be able to: 
 - Describe classical and symmetric ciphers (K2)
 - Examine the different authentication schemes and hash algorithms (K3)
-- Explain the working of Blcok cipher techniques(K2)
+- Explain the working of Block cipher techniques(K2)
 - Solve Cryptographic problems using number theoretic foundations (K3)
 - Compare and contrast various Public key cryptographic techniques (K3)
 
