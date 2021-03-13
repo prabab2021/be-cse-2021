@@ -52,7 +52,7 @@ Connectivity -- Eulerian and Hamilton graphs.
 
 {{{unit}}}
 |UNIT IV | ALGEBRAIC STRUCTURES | 13 |
-Algebraic systems -- Semi groups and monoids -- Groups -- Subgroups
+Algebraic systems -- Semi groups and monoids -- Groups -- Subgroups --
 Homomorphisms -- Normal subgroup and coset -- Lagrange's theorem --
 Definitions and examples of Rings and Fields.
 
