@@ -19,64 +19,57 @@
 | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-- To introduce various programming paradidgms
-- To understand programming paradigms such as imperative,
-  object-oriented, logic, functional and concuuent with illustrative
-  examples.
+
+- To learn about the importance of information security
+- To learn different scanning and enumeration methodologies and tools
+- To understand various hacking techniques and attacks
+- To be exposed to programming languages for security professionals
+- To get familiarized with the different phases in penetration testing
 
 {{{unit}}}
-| UNIT I | IMPERATIVE PROGRAMMING | 9 |
-Role of programming languages; Programming paradigms; Structured
-programming: Data representation -- Procedure activations -- Examples
-in C.
+| UNIT I | FUNDAMENTALS OF HACKING | 9 |
+Introduction to Hacking – Importance of Security – Elements of Security – Phases of an Attack – Types of Hacker
+Attacks – Hacktivism – Vulnerability Research – Introduction to Foot printing – Information Gathering Methodology – Foot
+printing Tools – WHOIS Tools – DNS Information Tools – Locating the Network Range – Meta Search Engines.
 
 {{{unit}}}
-|UNIT II | OBJECT ORIENTED PROGRAMMING | 9 |
-Abstract data types -- object model -- object-oriented thinking --
-Examples in Java.
+|UNIT II | SCANNING AND ENUMERATION | 9 |
+Introduction to Scanning – Objectives – Scanning Methodology – Tools – Introduction to Enumeration – Enumeration
+Techniques – Enumeration Procedure – Tools.
 
 {{{unit}}}
-|UNIT III | FUNCTIONAL PROGRAMMING  | 9 |
-Elements of functional programming: Values and operations --
-Approaches to expression evaluation -- Lexical scope -- Type checking;
-Haskell: Expressions -- Lists -- Types and values -- Control flow --
-Functions -- Tuples -- Examples.
+|UNIT III | SYSTEM HACKING  | 9 |
+Introduction – Cracking Passwords – Password Cracking Websites – Password Guessing – Password Cracking Tools –
+Password Cracking Counter measures – Escalating Privileges – Executing Applications – Key loggers and Spyware.
 
 {{{unit}}}
-|UNIT IV | LOGIC PROGRAMMING | 9 |
-Logic and Horn clauses, Prolog: Data structures -- Programming
-techniques -- Control -- Cuts -- Examples.
+|UNIT IV | PROGRAMMING FOR SECURITY PROFESSIONALS | 9 |
+Programming Fundamentals – C language – HTML – Perl – Windows OS Vulnerabilities – Tools for Identifying
+Vulnerabilities – Countermeasures – Linux OS Vulnerabilities – Tools for Identifying Vulnerabilities – Countermeasures.
+
 
 {{{unit}}}
-|UNIT V | CONCURRENT PROGRAMMING       | 9 |
-Concurrency concepts -- Synchronization strategies -- Interleaving --
-Liveness -- Safe access to shared data -- Examples in Java.
+|UNIT V | PENETRATION TESTING       | 9 |
+Introduction – Security Assessments – Types of Penetration testing – Phases of Penetration Testing – Tools –Test Tools
+– Penetration Testing Tools.
  
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understand imperative programming paradigm and some examples in C
-  (K3)
-- Understand object-oriented programming paradigm and explore some
-  examples in C++ or Java or Python (K3)
-- Understand functional programming paradigm and explore some examples
-  in Haskell (K3)
-- Understand logic programming paradigm and explore some examples in
-  Prolog (K3)
-- Understand concurrent programming paradigm and explore some examples
-  in Java (K3).
+- Defend hacking attacks and protect data assets.
+- Defend a computer against a variety of security attacks using various tools.
+- Practice and use safe techniques on the World Wide Web.
+- Write the programming for security professionals.
+- Know the different testing tools.
 
 ** TEXT BOOKS
-1. Ravi Sethi, Viswanatha K V, ``Programming Languages : Concepts and
-   constructs'', 2nd Edition, Pearson, 2011
-2. Allan B Tucker, Robert E Noonan, ``Programming Languages:
-   Principles and Paradigms'', 2nd Edition, McGraw Hill, 2007
+1. Patrick Engebretson, “The Basics of Hacking and Penetration Testing – Ethical Hacking and Penetration Testing
+Made Easy”, Syngress Media, Second Revised Edition, 2013.
+2. Michael T. Simpson, Kent Backman and James E. Corley, “Hands-On Ethical Hacking and Network Defense”,
+Cengage Learning, Third Edition 2017
 
 ** REFERENCES
-1. Michael Scott, ``Programming Language Pragmatics'', 4th Edition,
-   Morgan Kaufmann, 2015
-2. Robert W Sebesta,``Concepts of Programming Languages'', 11th
-   Edition, Pearson, 2016
-3. Maurizio Gabbrielli, Simone Martini, ``Programming Languages:
-   Principles and Paradigms'', Springer, 2010
+3. Jon Erickson, Hacking: “The Art of Exploitation”, No Starch Press, Second Edition, 2010.
+4. Ec-Council, “Ethical Hacking and Countermeasures”, Delmar Cengage Learning, 2017
+
