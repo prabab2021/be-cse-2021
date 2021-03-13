@@ -56,7 +56,7 @@ After the completion of this course, students will be able to:
 - Describe symmetric and asymmetric ciphers (K2)
 - Examine the different authentication schemes (K3)
 - Examine the security mechanisms adapted in OS, Cloud and IoT  (K3)
-- Examine the access control matrix (K3)
+- Examine the various access control mechanism (K3)
 - Compare and contrast various security policies (K3)
 
 ** TEXT BOOKS
