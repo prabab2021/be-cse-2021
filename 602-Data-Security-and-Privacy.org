@@ -34,9 +34,7 @@ User Authentication: Electronic User Authentication Principles -- Password-Based
       
 | UNIT III | SOFTWARE SECURITY AND CLOUD SECURITY            | 9 |
 
-Software Security: Software Security Issues -- Handling Program Input --  Writing Safe Program Code -- Interacting with the Operating System and Other Programs -- Handling Program Output;
-Operating System Security : Introduction to Operating System Security -- System Security Planning -- Operating Systems Hardening -- Application Security -- Security Maintenance -- Linux/Unix Security -- Windows Security -- Virtualization Security;
-Cloud and IoT security:  Cloud Computing -- Cloud Security Concepts -- Cloud Security Approaches -- The Internet of Things --  IoT Security
+Software Security: Software Security Issues -- Handling Program Input --  Writing Safe Program Code -- Interacting with the Operating System and Other Programs -- Handling Program Output; Operating System Security : Introduction to Operating System Security -- System Security Planning -- Operating Systems Hardening -- Application Security -- Security Maintenance -- Linux/Unix Security -- Windows Security -- Virtualization Security; Cloud and IoT security:  Cloud Computing -- Cloud Security Concepts -- Cloud Security Approaches -- The Internet of Things --  IoT Security
 
 {{{unit}}}
       
@@ -58,7 +56,7 @@ Confidentiality policy:The Bell-LaPadula Model; Integrity policy: Clark-Wilson I
 After the completion of this course, students will be able to: 
 - Describe symmetric and asymmetric ciphers (K2)
 - Examine the different authentication schemes (K3)
-- Explain the working of Block cipher techniques(K2)
+- Examine the security mechanisms adapted in OS, Cloud and IoT  (K3)
 - Solve Cryptographic problems using number theoretic foundations (K3)
 - Compare and contrast various Public key cryptographic techniques (K3)
 
