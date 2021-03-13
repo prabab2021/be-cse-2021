@@ -1,7 +1,7 @@
 * <<<PE506>>> MOBILE COMPUTING
 :properties:
 :author: Dr. V. S. Felix Enigo and Ms. A. Beulah
-:date: 10/03/2021
+:date: 13/03/2021
 :end:
 
 #+startup: showall
@@ -26,124 +26,74 @@
 | 3 | 0 | 0 | 3 |
 
 #+begin_comment
-1. Fifth unit is reframed according to industry needs. All other units are already discussed in AU-2017.
-2. For changes, see the individual units, some units were reordered
-3. This subject is partially offered under M.E syllabus as Mobile and Pervasive Computing (elective), but the syllabus is entirely different.
-4. Five Course outcomes specified and aligned with units.
-5. Done.
+- 1. Five Course outcomes specified and aligned with units
+- 2. CO6 added to cover soft POs
+- 3. NA
+- 4. 2 text and 5 Reference books 
+- 5. LTPC checked
+- 6. Hours distributed based on number and depth of the topics
+- 7. KL and Co matches the depth of the topics
+- 8. 4 COs in K3/k4
 #+end_comment
 
 ** COURSE OBJECTIVES
+The student should be made to:
 - Understand the basic concepts of mobile computing
-- Be familiar with the protocol stack
-- Be exposed to Ad-Hoc networks
+- Know the functionalities of layers in protocol stack
 - Learn the basics of mobile telecommunication system
-- Gain knowledge about different mobile platforms and application
-  development environments.
+- Gain knowledge about different mobile platforms and application development environments
+- Develop applications using Andriod Platform
 
 {{{unit}}}
-| UNIT I | INTRODUCTION | 9 |
-Introduction to Mobile Computing; Media Access Control (MAC):
+|Unit I |INTRODUCTION| 9 |
+ Introduction to Mobile Computing; Media Access Control (MAC):
 Motivation for a specialized MAC-- SDMA -- FDMA -- TDMA -- CDMA --
 Comparison of S/T/F/CDMA; Wireless LAN: Infrastructure based and adhoc
 networks -- IEEE 802.11 -- Bluetooth.
 
-#+begin_comment
-Retain
-	MAC Protocols
-Inclusion
-	Wireless LAN - students should know there are two types of WLAN  
-Removal
- Since multiplexing and spread spectrum have been already studied in Principles of Communication (Unit I and II) III semester in Autonomous Syllabus, it is removed
- Applications of Mobile Computing, Generations of Mobile Communication covered in Introduction, it is not mentioned in the syllabus.
-#+end_comment
- 
 {{{unit}}}
-| UNIT II | NETWORK LAYER | 9 |
+|Unit II | NETWORK AND TRANSPORT LAYER | 9 |
 Mobile IP: Goals, assumptions and requirements -- Entities and
 terminology -- IP packet delivery -- Agent discovery -- Registration
 --Tunneling and encapsulation -- Optimizations; DHCP; AdHoc: Routing
--- Proactive routing protocol-DSDV -- Reactive routing protocol - DSR,
-AODV -- Hybrid routing –ZRP -- Multicast Routing- ODMRP; VANET.
+-- Proactive routing protocol-DSDV -- Reactive routing protocol - DSR, 
+AODV -- Hybrid routing –ZRP; Traditional TCP – Classical TCP improvements.
 
-#+begin_comment
-In order to learn layer wise for better understanding, we have shifted
-Unit III and Unit IV of AU R-17 to Unit II and Unit III . Hence Unit
-II of AU-R-17 is moved to Unit IV.
-
-Therefore, the changes of Unit II is compared with Unit III of AU
-R-17.
-
-Retain
-	Mobile IP and Adhoc Routing
-Removal
- 	Security is vast - if included it will be overdumped, so it is removed
-#+end_comment
 
 {{{unit}}}
-| UNIT III | TRANSPORT AND APPLICATION LAYER | 9 |
-Mobile Transport Layer: Traditional TCP -- Classical TCP improvements;
-Wireless Application Protocol(WAP): Architecture -- WDP -- WTLS -- WTP
---WSP -- WAE -- WML --WTA.
+|Unit III | Mobile Telecommunication System | 9 |
+Introduction; GSM Overview; 3GPP; UMTS  and  IMT-2000: Architecture --  User  Equipment --  RNS --  UTRAN -- Node B -- RNC Functions -- IP Multimedia Subsystem; 4G Cellular Network: LTE Network Architecture -- EPS Interfaces -- EPS Protocols and Planes -- LTE Protocol Strack -- SDU and PDU -- RRC -- PDCP -- RLC -- MAC -- PHY.
 
 {{{unit}}}
-| UNIT IV | MOBILE TELECOMMUNICATION SYSTEM | 9 |
-Introduction; Global System for Mobile Communication (GSM): Mobile
-services -- System architecture -- Radio interface -- Protocols --
-Localization and calling -- Handover -- Security; General Packet Radio
-Service (GPRS); Universal Mobile Telecommunication System (UMTS): UMTS
-system architecture -- UTRAN -- Core network -- Handover.
-
-#+begin_comment
-Retain
-	GSM, GPRS, UMTS
- 	Frequency Allocation, Routing, Mobility Management in AU R-17 is covered in different topics name such as Radio Interface,     
-	Localization & Calling and Handover.
-Removed 
-	Security in UMTS is removed due to vastness of the portion.
-#+end_comment
+|Unit IV | Mobile Platforms | 8 |
+iOS: iOs Architecture Layers -- iOS Simulator; Android: Introdution to Android -- Android's Development Environment.
 
 {{{unit}}}
-| UNIT V | MOBILE PLATFORMS AND APPLICATION ENVIRONMENTS | 9 |
-iOS: iOs Architecture Layers -- iOS Simulator; Android: Platform
-architecture -- Developing android applications -- Anatomy of android
-applications -- Android SDK; Mobile Web.
-#+BEGIN_COMMENT
-Windows phone: remove (MM)
-#+END_COMMENT
-#+begin_comment
-To meet the industry needs, the whole unit has been re-framed
-#+end_comment
+|Unit V | EXERCISING THE ANDROID SDK| 10 |
+User Interfaces -- Intents and services -- Storing and Retrieving data -- Notifications and alarms -- Location --  Putting Android to work in a field service application.
+
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Identify the functionalities of various MAC protocols (K3)
-- Explain the functionalities of mobile network layer and routing in Ad hoc networks (K3)
-- Analyze the transport and application layer protocols (K3)
-- Explain the basics of mobile telecommunication system (K2)
-- Develop a mobile application (K3).
+- Explain the functionalities of MAC protocols in wireless networks (K2)
+- Choose appropriate algorithms for routing and transporting data for a given scenario (K3)
+- Demonstrate the concepts of 3G and 4G Cellular Networks (K2)
+- Make of use various mobile development environments (K3)
+- Develop Andriod applications for the given requirements (K3)
+- Analyze the given requirements and build Android applications (K4)
 
 ** TEXT BOOKS
 1. Jochen H Schller, ``Mobile Communications'', Pearson Education, New
-   Delhi, 2nd Edition, 2007 (Unit I--IV).
-2. Helal, Sumi, Raja Bose, Wendong Li, ``Mobile Platforms and
-   Development Environments.'' Synthesis Lectures on Mobile and
-   Pervasive Computing, 2012 (Unit V).
+   Delhi, 2nd Edition, 2007 (Unit I--III).
+2. Ableson, W.F., Sen, R. and King, C., 2011. ``Android in Action Second Edition'', Manning Publications Co.(Unit IV,V)
 
 ** REFERENCES
-1. Helal, Abdelsalam A, et al. ``Any Time, Anywhere Computing: Mobile
-   Computing Concepts and Technology'', Vol 522, Springer Science &
-   Business Media, 1st Edition, 1999.
-2. Dharma Prakash Agarval, Qing and An Zeng, ``Introduction to
-   Wireless and Mobile systems'', Thomson Asia, 3rd Edition, 2005.
-3. Uwe Hansmann, Lothar Merk, Martin S Nicklons and Thomas Stober,
-   ``Principles of Mobile Computing'', Springer, 2003.
-4. William C Y Lee, ``Mobile Cellular Telecommunications--Analog and
-   Digital Systems'', 2nd Edition,Tata Mc Graw Hill Edition ,2006.
-5. C K Toh, ``AdHoc Mobile Wireless Networks'', Pearson Education, 1st
-   Edition, 2002.
+1. ElNashar, A., El-Saidny, M.A. and Sherif, M., 2014. ``Design, deployment and performance of 4G-LTE networks: A practical approach'', John Wiley & Sons.(4G)
+2. Helal, Sumi, Raja Bose, and Wendong Li. ``Mobile platforms and development environments'', Synthesis Lectures on Mobile and Pervasive Computing, 2012.(iOS)
+3. Helal, Abdelsalam A., et al. ``Any time, anywhere computing: Mobile computing concepts and technology'', Vol. 522. Springer Science & Business Media, 1999.
+4. Dharma Prakash Agarval, Qing and An Zeng, ``Introduction to Wireless and Mobile systems'', Thomson Asia Pvt Ltd, 2005.	
+5. C.K.Toh, ``AdHoc Mobile Wireless Networks'', First Edition, Pearson Education, 2002.
 
 
 
