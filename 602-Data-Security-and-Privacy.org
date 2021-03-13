@@ -55,7 +55,7 @@ The Nature of Security Policies -- Types of Security Policies -- The Role of Tru
 After the completion of this course, students will be able to: 
 - Describe symmetric and asymmetric ciphers (K2)
 - Examine the different authentication schemes (K3)
-- Examine the security mechanisms adapted in OS, Cloud and IoT  (K3)
+- Outline the security mechanisms adapted in OS, Cloud and IoT  (K2)
 - Examine the various access control mechanism (K3)
 - Compare and contrast various security policies (K3)
 
