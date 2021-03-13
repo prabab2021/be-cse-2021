@@ -1,23 +1,11 @@
 * <<<PE307>>> DATA SECURITY AND PRIVACY
 :properties:
 :author: Dr. V. Balasubramanian and Dr. J. Bhuvana
-:date: 10-03-2021
+:date: 13-03-2021
 :end:
 
 #+startup: showall
-#+begin_comment
-Topic:
-1. Introduction to web security alone is discussed in unit 3.
-2. Due to limited hours,  indepth topics on Web security cannot be included.
-3. OWASP deals with web application security.
 
-Regarding BoS Comments:
-
-1. As per suggestions, Unit III is revised.
-
-2. Book suggested by BoS handles Cryptography and it deviates from the
-course content.
-#+end_comment
 
 {{{credits}}}
 | L | T | P | C |
@@ -25,13 +13,10 @@ course content.
 
 ** COURSE OBJECTIVES
 - To study about the essentials of computer security
-- To acquire knowledge on TCP/IP security, firewalls, IPSec, Virtual
-  Private Networks, and intrusion detection systems
-- To understand how various security mechanisms work, and correlate
-  these security mechanisms with security principles
-- To learn the security aspects of data center
-- To learn the security protocols and technologies with respect to
-  infrastructure.
+- To acquire knowledge on encryption Techniques
+- To understand authentication applications
+- To learn various access control mechanisms
+- To understand different security policies
 
 {{{unit}}}
          
@@ -41,10 +26,9 @@ Overview: Computer Security Concepts -- Threats, Attacks, and Assets -- Security
  
  {{{unit}}}
       
-| UNIT II | ACCESS CONTROL  AND INTERNET AUTHENTICATION APPLICATIONS            | 9 |
+| UNIT II |  INTERNET AUTHENTICATION APPLICATIONS            | 9 |
 
-User Authentication: Electronic User Authentication Principles -- Password-Based Authentication -- Token-Based Authentication -- Biometric Authentication -- Remote User Authentication;
-Internet Authentication Applications: Kerberos --  X.509 -- Public-Key Infrastructure
+User Authentication: Electronic User Authentication Principles -- Password-Based Authentication -- Token-Based Authentication -- Biometric Authentication -- Remote User Authentication; Internet Authentication Applications: Kerberos --  X.509 -- Public-Key Infrastructure
 
 {{{unit}}}
       
