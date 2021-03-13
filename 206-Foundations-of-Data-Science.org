@@ -95,9 +95,11 @@ After the completion of this course, students will be able to:
 2. Laura Igual, Santi Segua­, ``Introduction to Data Science -- A
    Python Approach to Concepts, Techniques and Applications'',
    Springer Nature, 2017 (Unit I, II, III, IV, V)
-3. Foster Provost and Tom Fawcett, ``Data Science for Business'',
+   
+** REFERENCE BOOKS
+1. Foster Provost and Tom Fawcett, ``Data Science for Business'',
    O'Reilly Media, 2013
-4. Jake VanderPlas, ``Python Data Science Handbook: Essential Tools
+2. Jake VanderPlas, ``Python Data Science Handbook: Essential Tools
    for Working with Data '', O'Reilly Media, 2016
-5. Rachel Schutt, Cathy O'Neil, ``Doing Data Science'', O'Reilly
+3. Rachel Schutt, Cathy O'Neil, ``Doing Data Science'', O'Reilly
    Media, 2016
