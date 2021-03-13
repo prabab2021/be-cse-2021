@@ -45,14 +45,14 @@ The student should be made to:
 - Develop applications using Andriod Platform
 
 {{{unit}}}
-|Unit I |INTRODUCTION| 9 |
- Introduction to Mobile Computing; Media Access Control (MAC):
+|UNIT I | INTRODUCTION | 9 |
+Introduction to Mobile Computing; Media Access Control (MAC):
 Motivation for a specialized MAC-- SDMA -- FDMA -- TDMA -- CDMA --
 Comparison of S/T/F/CDMA; Wireless LAN: Infrastructure based and adhoc
 networks -- IEEE 802.11 -- Bluetooth.
 
 {{{unit}}}
-|Unit II | NETWORK AND TRANSPORT LAYER | 9 |
+|UNIT II | NETWORK AND TRANSPORT LAYER | 9 |
 Mobile IP: Goals, assumptions and requirements -- Entities and
 terminology -- IP packet delivery -- Agent discovery -- Registration
 --Tunneling and encapsulation -- Optimizations; DHCP; AdHoc: Routing
@@ -61,15 +61,15 @@ AODV -- Hybrid routing –ZRP; Traditional TCP – Classical TCP improvements.
 
 
 {{{unit}}}
-|Unit III | Mobile Telecommunication System | 9 |
+|UNIT III | MOBILE TELECOMMUNICATION SYSTEMS | 9 |
 Introduction; GSM Overview; 3GPP; UMTS  and  IMT-2000: Architecture --  User  Equipment --  RNS --  UTRAN -- Node B -- RNC Functions -- IP Multimedia Subsystem; 4G Cellular Network: LTE Network Architecture -- EPS Interfaces -- EPS Protocols and Planes -- LTE Protocol Strack -- SDU and PDU -- RRC -- PDCP -- RLC -- MAC -- PHY.
 
 {{{unit}}}
-|Unit IV | Mobile Platforms | 8 |
+|UNIT IV | MOBILE PLATFORMS | 8 |
 iOS: iOs Architecture Layers -- iOS Simulator; Android: Introdution to Android -- Android's Development Environment.
 
 {{{unit}}}
-|Unit V | EXERCISING THE ANDROID SDK| 10 |
+|UNIT V | EXERCISING THE ANDROID SDK| 10 |
 User Interfaces -- Intents and services -- Storing and Retrieving data -- Notifications and alarms -- Location --  Putting Android to work in a field service application.
 
 
