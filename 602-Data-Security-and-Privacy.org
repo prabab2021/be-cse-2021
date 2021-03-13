@@ -38,7 +38,7 @@ Software Security: Software Security Issues -- Handling Program Input --  Writin
 
 {{{unit}}}
       
-| UNIT IV | ACCESS CONTROL MATRIX AND  SECURITY POLICIES              | 8 |
+| UNIT IV | ACCESS CONTROL MATRIX               | 8 |
 
  Access Control Matrix: Protection State-- Access Control Matrix Model -- Protection State Transitions -- Copying, Owning, and the Attenuation of Privilege;
 Security Policies: The Nature of Security Policies -- Types of Security Policies -- The Role of Trust -- Types of Access Control -- Policy Languages -- Example: Academic Computer Security Policy -- Security and Precision 
@@ -46,8 +46,7 @@ Security Policies: The Nature of Security Policies -- Types of Security Policies
 {{{unit}}}
       
 | UNIT V |  SECURITY POLICIES             | 8 |
-The Nature of Security Policies -- Types of Security Policies -- The Role of Trust; 
-Confidentiality policy:The Bell-LaPadula Model; Integrity policy: Clark-Wilson Integrity Model; Availability policy: Denial of Service Models; Hybrid policy:  Chinese Wall Model
+The Nature of Security Policies -- Types of Security Policies -- The Role of Trust; Confidentiality policy:The Bell-LaPadula Model; Integrity policy: Clark-Wilson Integrity Model; Availability policy: Denial of Service Models; Hybrid policy:  Chinese Wall Model.
 
 
 \hfill *Total Periods: 45*
@@ -57,8 +56,8 @@ After the completion of this course, students will be able to:
 - Describe symmetric and asymmetric ciphers (K2)
 - Examine the different authentication schemes (K3)
 - Examine the security mechanisms adapted in OS, Cloud and IoT  (K3)
-- Solve Cryptographic problems using number theoretic foundations (K3)
-- Compare and contrast various Public key cryptographic techniques (K3)
+- Examine the access control matrix (K3)
+- Compare and contrast various security policies (K3)
 
 ** TEXT BOOKS
 
