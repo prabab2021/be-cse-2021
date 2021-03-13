@@ -94,11 +94,13 @@ After the completion of this course, students will be able to:
 - Manage project schedule, estimate project cost and effort required (K3)
 - Perform requirements analysis and modeling (K3)
 - Apply systematic procedure for software design (K3)
+
+
 - Compare and contrast the various testing and maintenance activities (K2)
 - Build a system in teams and apply best practices and principles in software engineering with clear documentation of approaches (K3)
 
 ** TEXT BOOKS
-1. Roger S Pressman, ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Eighth Edition, 2015.
+1. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Eighth Edition, 2015.
 2. Ian Sommerville, ``Software Engineering'', Pearson Education Asia,Tenth Edition, 2015.
 
 ** REFERENCES
