@@ -1,7 +1,7 @@
 * <<<PE404>>> COMPUTER VISION
 :properties:
-:author: Ms. R. Priyadharsini and Ms. K. Lekshmi
-:date:  
+:author: Ms. R. Priyadharsini and Ms. P. Mirunalini
+:date:  13-03-2021
 :end:
 #+startup: showall
 
@@ -45,46 +45,33 @@
 - To be familiar with object recognition methods.
 
 {{{unit}}}
-|UNIT I | DIGITAL IMAGE FUNDAMENTALS | 9 |
-Introduction to Digital Image Processing: Components -- Image sensing
-and acquisition -- Image sampling and quantization; Relationships
-between Pixels; 2D Mathematical Preliminaries: Array vs matrix
-operations -- Linear vs nonlinear operations -- Arithmetic -- Logical
--- Statistical -- Spatial operations.
+|UNIT I | Feature detection and matching | 9 |
+Edges - Canny, LOG, DOG; Line detectors (Hough Transform), Corners - Harris and Hessian Affine, 
+Orientation Histogram, SIFT, SURF, HOG, GLOH, Scale-Space Analysis- Image Pyramids and Gaussian derivative filters, 
+Gabor Filters and DWT.
 
 {{{unit}}}
-|UNIT II | IMAGE ENHANCEMENT | 9 |
-Spatial Domain: Gray level transformations -- Histogram processing;
-Basics of Spatial Filtering: Smoothing and sharpening spatial
-filtering; Frequency Domain: Introduction to fourier transform --
-Smoothing and Sharpening Frequency Domain Filters: Ideal --
-Butterworth -- Gaussian filters; Homomorphic Filtering.
+|UNIT II | IMAGE SEGMENTATION  | 9 |
+Region Growing, Edge Based approaches to segmentation, Graph-Cut, Mean-Shift, MRFs,
+Texture Segmentation; Object detection. Application: Medical image segmentation
 
 {{{unit}}}
-|UNIT III | IMAGE RESTORATION | 9 |
-Image Restoration: Degradation model; Noise models; Restoration in the
-Presence of Noise using Spatial Filtering: Mean filters -- Order
-statistics -- Adaptive filters; Periodic Noise Reduction by Frequency
-Domain Filtering: Band reject filters -- Band pass filters -- Notch
-filters -- Optimum notch filtering; Inverse filtering; Wiener
-filtering.
+|UNIT III | DEPTH ESTIMATION AND 3D RECONSTRUCTION: | 9 |
+Feature-based alignment: 2D and 3D feature-based alignment, pose estimation, Geometric intrinsic calibration. 
+Structure from Motion: Triangulation, Two-frame structure from Motion, Factorization, Bundle adjustment. 
+Stereo Correspondance: Epipolar geometry, 3D Reconstruction: Shape from X, Active rangefinding, Surface representations,
+Point-based representations
 
 {{{unit}}}
-|UNIT IV | IMAGE SEGMENTATION | 9 |
-Edge Detection: Edge linking via Hough transform; Thresholding:
-Intensity thresholding -- Otsu's thresholding; Region Based
-Segmentation: Region growing -- Region splitting and merging;
-Morphological Processing: Erosion and dilation; Segmentation by
-Morphological Watersheds: Basic concepts -- Dam construction --
-Watershed segmentation algorithm.
+|UNIT IV | OBJECT RECOGNITION | 9 |
+Face recognition, instance recognition, category recognition, Context and scene understanding
 
 {{{unit}}}
-|UNIT V | FEATURE ANALYSIS AND OBJECT RECOGNITION | 9 |
-Boundary representation; Boundary Descriptors: Fourier descriptor;
-Regional descriptors -- Texture; Relational descriptors; Object
-Recognition: Patterns and pattern classes; Recognition based on
-decision theoretic methods; Case Study for Image Recognition: Face
-recognition.
+|UNIT V | DEEP LEARNING TECHNIQUES FOR COMPUTER VISION | 9 |
+Introduction to CNNs; Visualization of Kernels; Backprop-to-image/Deconvolution Methods;
+CNNs for Detection: Background of Object Detection, R-CNN, Fast R-CNN, Faster R-CNN.CNNs for Segmentation: FCN, SegNet, 
+U-Net, Mask-RCNN, Recurrent Neural Networks (RNNs): CNN + RNN Models for Video Understanding: Spatio-temporal Models,
+Action/Activity Recognition
 
 #+begin_comment
 Removed: Image compression
