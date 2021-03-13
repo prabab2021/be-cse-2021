@@ -23,8 +23,6 @@
 | CO3            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
 | CO4            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
 | CO5            | K3 |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
-| Score          |    |  13 |  10 |   8 |   0 |   5 |   0 |   0 |   5 |   5 |    5 |    0 |    5 |   10 |   12 |   10 |
-| Course Mapping |    |   3 |   2 |   2 |   0 |   1 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    3 |    2 |
 
 
 {{{credits}}}
@@ -93,12 +91,13 @@ SSL and TLS.
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
-- Describe and implement classical and symmetric ciphers (K2)
+- Describe classical and symmetric ciphers (K2)
 - Describe the authentication schemes and hash algorithms (K2)
-- Outline the number theoretic foundations of cryptography (K3)
+- Explain the working of Blcok cipher techniques(K2)
+- Solve Cryptographic problems using number theoretic foundations (K3)
 - Compare and contrast various Public key cryptographic techniques
   (K3)
-- Illustrate various Public key cryptographic techniques (K3).
+- Illustrate various Digital signature techniques (K3).
 
 ** TEXT BOOKS
 1. Jonathan Katz, Yehuda Lindell, ``Introduction to Modern
