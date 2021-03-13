@@ -35,8 +35,7 @@
 - To learn number theory fundamentals needed by cryptographic
   algorithms
 - To understand the various key distribution and management schemes
-- To understand the concepts of Public key cryptography and digital
-  signatures.
+- To understand the concepts of Public key cryptography and digital Signatures.
  
 {{{unit}}}
 | UNIT I | INTRODUCTION AND CLASSICAL CRYPTOGRAPHY & SYMMETRIC CRYPTOGRAPHY | 10 |
@@ -92,12 +91,11 @@ SSL and TLS.
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
 - Describe classical and symmetric ciphers (K2)
-- Describe the authentication schemes and hash algorithms (K2)
+- Examine the different authentication schemes and hash algorithms (K3)
 - Explain the working of Blcok cipher techniques(K2)
 - Solve Cryptographic problems using number theoretic foundations (K3)
-- Compare and contrast various Public key cryptographic techniques
-  (K3)
-- Illustrate various Digital signature techniques (K3).
+- Compare and contrast various Public key cryptographic techniques (K3)
+
 
 ** TEXT BOOKS
 1. Jonathan Katz, Yehuda Lindell, ``Introduction to Modern
