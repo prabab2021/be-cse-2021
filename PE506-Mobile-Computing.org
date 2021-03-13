@@ -66,7 +66,7 @@ Introduction; GSM Overview; 3GPP; UMTS  and  IMT-2000: Architecture --  User  Eq
 
 {{{unit}}}
 |UNIT IV | MOBILE PLATFORMS | 8 |
-iOS: iOs Architecture Layers -- iOS Simulator; Android: Introdution to Android -- Android's Development Environment.
+iOS: iOS Architecture Layers -- iOS Simulator; Android: Introdution to Android -- Android's Development Environment.
 
 {{{unit}}}
 |UNIT V | EXERCISING THE ANDROID SDK| 10 |
